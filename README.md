@@ -1,10 +1,11 @@
-## Magento 2 Arabic Language Pack
+# Magento 2 Arabic Language Pack
 
+Read more [Magento 2 Arabic Language Pack](https://www.mageplaza.com/magento-2-arabic-language-pack.html)
 
 ## How to Install Arabic Language Pack
 
 
-### #1. Composer method
+### via Composer
 Install the Arabic language pack via composer is never easier.
 
 **Install Arabic pack**:
@@ -25,3 +26,5 @@ php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ar-sa
 
 ```
+
+Ref: https://www.mageplaza.com/magento-2-arabic-language-pack.html
