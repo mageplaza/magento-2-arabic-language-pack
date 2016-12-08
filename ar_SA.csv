@@ -2123,7 +2123,7 @@ Edit,تحرير,module,Magento_CatalogEvent
 Quantity,الكمية,module,Magento_CatalogInventory
 "Advanced Inventory","المخزون المتقدم",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 is available to buy in increments of %2",module,Magento_CatalogInventory
-"Only %1 left","Only %1 left",module,Magento_CatalogInventory
+"Only %1 left","متوفرتين %1 فقط",module,Magento_CatalogInventory
 "Product availability","Product availability",module,Magento_CatalogInventory
 "Product Name","اسم المنتج",module,Magento_CatalogInventory
 Qty,الكميّة,module,Magento_CatalogInventory
@@ -2557,8 +2557,8 @@ Close,غلق,module,Magento_Checkout
 item,قطعة,module,Magento_Checkout
 items,قطع,module,Magento_Checkout
 "Go to Checkout",شراء,module,Magento_Checkout
-"Recently added item(s)","القطع المضافة مؤخرا",module,Magento_Checkout
-"View and edit cart","عرض وتعديل سلة التسوق",module,Magento_Checkout
+"Recently added item(s)","المنتجات المضافة مؤخرا",module,Magento_Checkout
+"View and edit cart","عرض وتعديل السلة",module,Magento_Checkout
 "See Details","عرض التفاصيل",module,Magento_Checkout
 "Options Details","تفاصيل الخيارات",module,Magento_Checkout
 Remove,ازالة,module,Magento_Checkout
@@ -3229,7 +3229,7 @@ Yes/No,نعم/لا,module,Magento_CustomAttributeManagement
 "File (attachment)","ملف (مرفق)",module,Magento_CustomAttributeManagement
 "Image File","ملف الصورة",module,Magento_CustomAttributeManagement
 Alphanumeric,"أبجدي رقمي",module,Magento_CustomAttributeManagement
-"Numeric Only","Numeric Only",module,Magento_CustomAttributeManagement
+"Numeric Only","ارقام فقط",module,Magento_CustomAttributeManagement
 "Alpha Only","ألفا فقط",module,Magento_CustomAttributeManagement
 URL,الرابط,module,Magento_CustomAttributeManagement
 Email,"البريد الإلكتروني",module,Magento_CustomAttributeManagement
