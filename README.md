@@ -34,7 +34,7 @@ Install the Arabic language pack via composer is never easier.
 **Install Arabic pack**:
 
 ```
-composer require mageplaza/magento-2-arabic-language-pack:*
+composer require mageplaza/magento-2-arabic-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ar-sa
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy ar-sa
 **Update  Arabic pack**:
 
 ```
-composer update mageplaza/magento-2-arabic-language-pack:*
+composer update mageplaza/magento-2-arabic-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ar-sa
 
