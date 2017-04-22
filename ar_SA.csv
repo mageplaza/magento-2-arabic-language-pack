@@ -2726,6 +2726,7 @@ Payment,الدفع,module,Magento_Checkout
 "Not yet calculated","لم يتم حسابها",module,Magento_Checkout
 "We received your order!","تلقينا طلبك!",module,Magento_Checkout
 "Thank you for your purchase!","شكراً لطلبكم معنا!",module,Magento_Checkout
+"Go to Checkout",شراء,module,Magento_Checkout
 "Terms and Conditions","الشروط والأحكام",module,Magento_CheckoutAgreements
 "Add New Condition","إضافة شرط جديد",module,Magento_CheckoutAgreements
 "Save Condition","حفظ الشرط",module,Magento_CheckoutAgreements
