@@ -2727,6 +2727,9 @@ Payment,الدفع,module,Magento_Checkout
 "We received your order!","تلقينا طلبك!",module,Magento_Checkout
 "Thank you for your purchase!","شكراً لطلبكم معنا!",module,Magento_Checkout
 "Go to Checkout",شراء,module,Magento_Checkout
+"View and edit cart","عرض وتعديل السلة",module,Magento_Checkout
+"Item in Cart","منتج في سلة التسوق",module,Magento_Checkout
+"Items in Cart","منتجات في سلة التسوق",module,Magento_Checkout
 "Terms and Conditions","الشروط والأحكام",module,Magento_CheckoutAgreements
 "Add New Condition","إضافة شرط جديد",module,Magento_CheckoutAgreements
 "Save Condition","حفظ الشرط",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,الشركاء,module,Magento_Marketplace
 "Read More","اقرأ المزيد",module,Magento_Marketplace
 "Partner Page","صفحة الشريك",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","العثور على شركاء & ملحقات",module,Magento_Marketplace
 Synchronize,المزامنة,module,Magento_MediaStorage
 "Synchronizing %1 to %2","مزامنة %1 إلى %2",module,Magento_MediaStorage
 Synchronizing...,مزامنة...,module,Magento_MediaStorage
