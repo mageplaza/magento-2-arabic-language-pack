@@ -242,8 +242,8 @@ Edit,تعديل,module,Magento_AdvancedSearch
 "Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
 "Command was not found.","Command was not found.",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
+"Please select a vertical.","الرجاء حدد العمود.",module,Magento_Analytics
+"--Please Select--","--أختر من فضلك--",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Error message",module,Magento_Analytics
