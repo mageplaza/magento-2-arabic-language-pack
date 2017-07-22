@@ -236,33 +236,33 @@ Edit,تعديل,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","فشل استدعاء RPC، مهلة الاتصال بعد %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","تم رفض الرسالة: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","حدث خطأ أثناء التحقق من إذا كان الموضوع متزامن",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
+"Subscription status","حالة الاشتراك",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","عذراً، حدث خطأ أثناء معالجة طلبك. الرجاء المحاولة مرة أخرى لاحقاً.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","آسف، حدث خطأ أثناء معالجة طلب التسجيل الخاص بك في تحليلات ماجنتو. الرجاء المحاولة مرة أخرى لاحقاً.",module,Magento_Analytics
 "Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
+"Command was not found.","لم يتم العثور على الأمر.",module,Magento_Analytics
+"There was an error save new configuration value.","حدث خطأ أثناء حفظ قيمة الإعداد الجديد.",module,Magento_Analytics
 "Please select a vertical.","الرجاء حدد العمود.",module,Magento_Analytics
 "--Please Select--","--أختر من فضلك--",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
+TestMessage,"رسالة تجريبية",module,Magento_Analytics
+"Error message","رسالة خطأ",module,Magento_Analytics
+"Apps and Games","تطبيقات وألعاب",module,Magento_Analytics
 "Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
+"Art and Design","الفن والتصميم",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+"An error occurred while subscription process.","حدث خطأ أثناء عملية الاشتراك.",module,Magento_Analytics
+Analytics,التحليلات,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,الضبط,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 General,عام,module,Magento_Analytics
-"Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
-Vertical,Vertical,module,Magento_Analytics
+"Send the system and transaction data to Magento Analytics service","إرسال بيانات النظام والمعاملات لخدمة تحليلات ماجنتو",module,Magento_Analytics
+Vertical,عمودي,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
-"Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
+"Subscription Confirmation","تأكيد الاشتراك",module,Magento_Analytics
 Cancel,إلغاء,module,Magento_Analytics
 Ok,موافق,module,Magento_Analytics
 "I agree with sending my system
@@ -310,7 +310,7 @@ Error,خطأ,module,Magento_AsynchronousOperations
 "Order saving error: %1","أمر حفظ الخطأ: %1",module,Magento_Authorizenet
 "Please choose a payment method.","الرجاء اختيار طريقة الدفع.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","لا يمكننا معالجة طلبك الآن. الرجاء المحاولة مرة أخرى لاحقاً.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","حدث خطأ في الخادوم. الرجاء محاولة وضع الطلب مرة أخرى.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","كارت ائتماني: xxxx-%1",module,Magento_Authorizenet
 "amount %1","%1 كمية",module,Magento_Authorizenet
 failed.,فشل.,module,Magento_Authorizenet
@@ -351,7 +351,7 @@ void,الفراغ,module,Magento_Authorizenet
 "CAVV Response","استجابة CAVV",module,Magento_Authorizenet
 "Fraud Filters","مانع الاحتيال.",module,Magento_Authorizenet
 "Place Order","إنشاء الطلب",module,Magento_Authorizenet
-"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","آسف، ولكن حدث شيء خاطئ خاطئ. الرجاء الاتصال بالبائع.",module,Magento_Authorizenet
 "Authorize.net Direct Post","نشر مباشر Authorize.net",module,Magento_Authorizenet
 Enabled,تفعيل,module,Magento_Authorizenet
 "Payment Action","إجراءات الدفع",module,Magento_Authorizenet
@@ -362,7 +362,7 @@ Title,العنوان,module,Magento_Authorizenet
 "New Order Status","حالة طلب جديدة",module,Magento_Authorizenet
 "Test Mode","وضع الاختبار",module,Magento_Authorizenet
 "Gateway URL","رابط البوابة",module,Magento_Authorizenet
-"Transaction Details URL","URL تفاصيل عملية الدفع",module,Magento_Authorizenet
+"Transaction Details URL","رابط تفاصيل عملية الدفع",module,Magento_Authorizenet
 "Accepted Currency","العملات المقبولة",module,Magento_Authorizenet
 Debug,تنقيح,module,Magento_Authorizenet
 "Email Customer","البريد الإلكتروني للعميل",module,Magento_Authorizenet
@@ -631,7 +631,7 @@ Minute,دقيقة,module,Magento_Backend
 "JavaScript may be disabled in your browser.","قد يكون جافا سكريبت معطل في المستعرض الخاص بك.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","لاستخدام هذا الموقع يجب عليك أولاً تمكين جافا سكريبت في المستعرض الخاص بك.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","هذا متجر تجريبي فقط. يمكنك استعراض ووضع الأوامر، ولكن لا شيء سيتم تجهيزه.",module,Magento_Backend
-"Report a Bug","Report a Bug",module,Magento_Backend
+"Report a Bug","الإبلاغ عن خلل",module,Magento_Backend
 "Store View:","عرض المتجر:",module,Magento_Backend
 "Stores Configuration","ضبط المتاجر",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","الرجاء التأكد من تحويل النطاق. سيتم فقدان كافة البيانات التي لم يتم حفظها.",module,Magento_Backend
@@ -1002,7 +1002,7 @@ Authorize,تصريح,module,Magento_Braintree
 ending,"يتم الإنهاء",module,Magento_Braintree
 expires,"انتهاء صلاحية",module,Magento_Braintree
 "PayPal Account","PayPal Account",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+"PayPal Logo","شعار باي بال",module,Magento_Braintree
 Actions,اعمال,module,Magento_Braintree
 Delete,احذف,module,Magento_Braintree
 "Credit Card Information","معلومات بطاقة الائتمان",module,Magento_Braintree
@@ -1014,9 +1014,9 @@ MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","الرجاء المحاولة مرة أخرى بطريقة دفع أخرى.",module,Magento_Braintree
 "Sorry, but something went wrong.","عفواً، حدث خطأ.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,الدفع,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","قبول بطاقات الائتمان و بايبال في المتجر. <br/> بدون رسوم إعداد أو رسوم شهرية، ولن يخرج عملائك من الموقع لإتمام الدفع.",module,Magento_Braintree
 "Enable this Solution","تمكين هذا الحل",module,Magento_Braintree
 "Enable PayPal through Braintree","تمكين باي بال عن طريق Braintree",module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
@@ -1045,7 +1045,7 @@ Debug,نقح,module,Magento_Braintree
 "Require Customer's Billing Address","تتطلب المعالجة عناوين الفواتير للعميل",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","السماح بتحرير عنوان السحن خلال مرحلة الدفع بـ بأي بال",module,Magento_Braintree
 "Display on Shopping Cart","العرض في سلة التسوق",module,Magento_Braintree
-"Skip Order Review","Skip Order Review",module,Magento_Braintree
+"Skip Order Review","تخطي مراجعة الطلب",module,Magento_Braintree
 "3D Secure Verification Settings","إعدادات التحقق آمنة 3D",module,Magento_Braintree
 "3D Secure Verification","التحقق الآمن بستخدام 3D",module,Magento_Braintree
 "Threshold Amount","مبلغ الحد الأعلى",module,Magento_Braintree
@@ -1505,7 +1505,7 @@ Categories,فئات,module,Magento_Catalog
 "Category is not available for requested store.","القسم غير متاح للمتجر المطلوب.",module,Magento_Catalog
 "There was a category move error. %1","كان هناك خطأ في نقل الفئة %1",module,Magento_Catalog
 "There was a category move error.","كان هناك خطأ في نقل الفئة %1.",module,Magento_Catalog
-"You moved the category.","You moved the category.",module,Magento_Catalog
+"You moved the category.","لقد قمت بنقل القسم.",module,Magento_Catalog
 "Attribute ""%1"" is required.","صفة ""%1"" مطلوبة.",module,Magento_Catalog
 "You saved the category.","لقد قمت بحفظ القسم.",module,Magento_Catalog
 "Something went wrong while saving the category.","حدث خطأ أثناء حفظ القسم.",module,Magento_Catalog
@@ -1692,7 +1692,7 @@ px.,بكسل.,module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
 "Could not save Prices.","Could not save Prices.",module,Magento_Catalog
-"Could not delete Prices","Could not delete Prices",module,Magento_Catalog
+"Could not delete Prices","تعذر حذف الأسعار",module,Magento_Catalog
 "Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
