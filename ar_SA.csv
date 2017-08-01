@@ -2548,7 +2548,7 @@ Conditions,الحالات,module,Magento_CatalogWidget
 "Invalid method: %1","طريقة غير صحيحة: %1",module,Magento_Checkout
 City,المدينة,module,Magento_Checkout
 Country,الدولة,module,Magento_Checkout
-State/Province,ولاية/مقاطعة,module,Magento_Checkout
+State/Province,ولاية/محافظة,module,Magento_Checkout
 "Zip/Postal Code","الرمز البريدي",module,Magento_Checkout
 "My Cart (1 item)","سلة السلة (منتج واحد)",module,Magento_Checkout
 "My Cart (%1 items)","سلة التسوق (%1 منتج)",module,Magento_Checkout
@@ -3699,8 +3699,8 @@ Address,العنوان,module,Magento_Customer
 "Street Address %1","عنوان الشارع %1",module,Magento_Customer
 "VAT Number","رقم ضريبة القيمة المضافة",module,Magento_Customer
 City,المدينة,module,Magento_Customer
-State/Province,ولاية/مقاطعة,module,Magento_Customer
-"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو مقاطعة.",module,Magento_Customer
+State/Province,ولاية/محافظة,module,Magento_Customer
+"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو محافظة.",module,Magento_Customer
 "Zip/Postal Code","الرمز البريدي",module,Magento_Customer
 Country,الدولة,module,Magento_Customer
 "It's a default billing address.","It's a default billing address.",module,Magento_Customer
@@ -4067,8 +4067,8 @@ Address,العنوان,module,Magento_CustomerCustomAttributes
 "Street Address %1","عنوان الشارع %1",module,Magento_CustomerCustomAttributes
 "VAT Number","رقم ضريبة القيمة المضافة",module,Magento_CustomerCustomAttributes
 City,المدينة,module,Magento_CustomerCustomAttributes
-State/Province,ولاية/مقاطعة,module,Magento_CustomerCustomAttributes
-"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو مقاطعة.",module,Magento_CustomerCustomAttributes
+State/Province,ولاية/محافظة,module,Magento_CustomerCustomAttributes
+"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو محافظة.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code","الرمز البريدي",module,Magento_CustomerCustomAttributes
 Country,الدولة,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
@@ -4271,7 +4271,7 @@ Group,مجموعة,module,Magento_CustomerSegment
 Phone,الهاتف,module,Magento_CustomerSegment
 ZIP,"الرمز البريدي",module,Magento_CustomerSegment
 Country,الدولة,module,Magento_CustomerSegment
-State/Province,ولاية/مقاطعة,module,Magento_CustomerSegment
+State/Province,ولاية/محافظة,module,Magento_CustomerSegment
 "Customer Since","عميل منذ",module,Magento_CustomerSegment
 "View Combined Report","عرض التقارير المجمعة",module,Magento_CustomerSegment
 Set,ضبط,module,Magento_CustomerSegment
@@ -4436,7 +4436,7 @@ Size,الحجم,module,Magento_Dhl
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
 "Sort Order",الترتيب,module,Magento_Dhl
 Debug,نقح,module,Magento_Dhl
-State/Province,"الولاية\المحافظة",module,Magento_Directory
+State/Province,الولاية/المحافظة,module,Magento_Directory
 "--Please Select--"," --- الرجاء الإختيار --- ",module,Magento_Directory
 lbs,رطل,module,Magento_Directory
 kgs,كجم,module,Magento_Directory
@@ -4453,7 +4453,7 @@ WARNING:,تحذير:,module,Magento_Directory
 "Please correct the country code: %1.","الرجاء تصحيح رمز البلد: %1.",module,Magento_Directory
 "Country and Format Type combination should be unique","البلد نوع وشكل الجمع بين ينبغي ان تكون فريدة من نوعها",module,Magento_Directory
 "Please correct the rates received","الرجاء تصحيح المعدلات المستلمة",module,Magento_Directory
-"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو مقاطعة.",module,Magento_Directory
+"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو محافظة.",module,Magento_Directory
 Currency,العملة,module,Magento_Directory
 "Your current currency is: %1.","العملة الحالية الخاصة بك: %1.",module,Magento_Directory
 Continue,استمر,module,Magento_Directory
@@ -5331,8 +5331,8 @@ None,"لا شئ",module,Magento_GiftRegistry
 "New Address","عنوان جديد",module,Magento_GiftRegistry
 "Edit Gift Registry","تعديل قائمة الهدايا",module,Magento_GiftRegistry
 "Create Gift Registry","انشاء قائمة هدايا",module,Magento_GiftRegistry
-State/Province,ولاية/مقاطعة,module,Magento_GiftRegistry
-"Please select a region, state or province","من فضلك اختر منطقة، ولاية أو مقاطعة",module,Magento_GiftRegistry
+State/Province,ولاية/محافظة,module,Magento_GiftRegistry
+"Please select a region, state or province","من فضلك اختر منطقة، ولاية أو محافظة",module,Magento_GiftRegistry
 "Please Select","أختر من فضلك",module,Magento_GiftRegistry
 "View Gift Registry %1","عرض قائمة الهدايا %1",module,Magento_GiftRegistry
 "Share '%1' Gift Registry","Share '%1' Gift Registry",module,Magento_GiftRegistry
@@ -5454,7 +5454,7 @@ Address,العنوان,module,Magento_GiftRegistry
 "Street Address","عنوان الشارع",module,Magento_GiftRegistry
 "Street Address %1","عنوان الشارع %1",module,Magento_GiftRegistry
 City,المدينة,module,Magento_GiftRegistry
-"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو مقاطعة.",module,Magento_GiftRegistry
+"Please select a region, state or province.","من فضلك اختر منطقة، ولاية أو محافظة.",module,Magento_GiftRegistry
 "Zip/Postal Code","الرمز البريدي",module,Magento_GiftRegistry
 Country,الدولة,module,Magento_GiftRegistry
 "Phone Number","رقم الهاتف",module,Magento_GiftRegistry
@@ -6383,7 +6383,7 @@ Name,اسم,module,Magento_MultipleLocationInventory
 "Contact Name","Contact Name",module,Magento_MultipleLocationInventory
 Email,"البريد الإلكتروني",module,Magento_MultipleLocationInventory
 Country,الدولة,module,Magento_MultipleLocationInventory
-State/Province,ولاية/مقاطعة,module,Magento_MultipleLocationInventory
+State/Province,ولاية/محافظة,module,Magento_MultipleLocationInventory
 City,المدينة,module,Magento_MultipleLocationInventory
 Street,Street,module,Magento_MultipleLocationInventory
 ZIP,"الرمز البريدي",module,Magento_MultipleLocationInventory
@@ -8751,7 +8751,7 @@ Ok,موافق,module,Magento_Rma
 "Contact Name","Contact Name",module,Magento_Rma
 "Street Address","عنوان الشارع",module,Magento_Rma
 City,المدينة,module,Magento_Rma
-State/Province,ولاية/مقاطعة,module,Magento_Rma
+State/Province,ولاية/محافظة,module,Magento_Rma
 "ZIP/Postal Code","الرمز البريدي",module,Magento_Rma
 Country,الدولة,module,Magento_Rma
 Enabled,تفعيل,module,Magento_Rma
@@ -9241,7 +9241,7 @@ Country,الدولة,module,Magento_Sales
 Email,"البريد الإلكتروني",module,Magento_Sales
 "First Name","الإسم الأول",module,Magento_Sales
 "Last Name","اسم العائلة",module,Magento_Sales
-State/Province,ولاية/مقاطعة,module,Magento_Sales
+State/Province,ولاية/محافظة,module,Magento_Sales
 "Street Address","عنوان الشارع",module,Magento_Sales
 "Phone Number","رقم الهاتف",module,Magento_Sales
 "Zip/Postal Code","الرمز البريدي",module,Magento_Sales
