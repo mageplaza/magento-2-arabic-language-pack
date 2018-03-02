@@ -1,6 +1,6 @@
 ## Magento 2 Arabic Language Pack
 
-Arabic Language* is your native language and you need to use that language on your magento 2 store. Please follow this article to get the **Magento 2 Arabic Language Pack** from Magento 2 translation project and install it more easily
+*Arabic Language* is your native language and you need to use that language on your magento 2 store. Please follow this article to get the **Magento 2 Arabic Language Pack** from Magento 2 translation project and install it more easily
 
 Read more [Magento 2 Arabic Language Pack](https://www.mageplaza.com/magento-2-arabic-language-pack.html)
 
@@ -120,38 +120,16 @@ Contribute to this language at https://crowdin.com/project/magento-2/ar
 
 ## Supported Magento versions
 
-- Magento v2.0.0
-- Magento v2.0.1
-- Magento v2.0.2
-- Magento v2.0.3
-- Magento v2.0.4
-- Magento v2.0.5
-- Magento v2.0.6
-- Magento v2.0.7
-- Magento v2.0.8
-- Magento v2.0.9
-- Magento v2.0.10
-- Magento v2.0.11
-- Magento v2.0.12
-- Magento v2.0.13
-- Magento v2.0.14
-- Magento v2.0.15
-- Magento v2.0.16
-- Magento v2.1.0
-- Magento v2.1.1
-- Magento v2.1.2
-- Magento v2.1.3
-- Magento v2.1.4
-- Magento v2.1.5
-- Magento v2.1.6
-- Magento v2.1.7
-- Magento v2.1.8
-- Magento v2.1.10
-- Magento v2.2.0
-- Magento v2.2.1
-- Magento v2.2.2
+- Magento v2.0.x
+- Magento v2.1.x
+- Magento v2.2.x
 
 
+
+## Note
+
+- This project automatically updates weekly from Crowdin.
+- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-arabic-language-pack/issues/new)
 
 ## Language package authors
 

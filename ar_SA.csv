@@ -1032,7 +1032,7 @@ Header,الترويسة,module,Magento_Banner
 "Specify Banners","حدد لافتة",module,Magento_Banner
 "Banner Block Template","قالب كتلة اللافتة",module,Magento_Banner
 "Banner Inline Template","قالب الشعار المضمن",module,Magento_Banner
-cc_type,cc_type,module,Magento_Braintree
+cc_type,sss,module,Magento_Braintree
 cc_number,cc_number,module,Magento_Braintree
 avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
 avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
@@ -1042,21 +1042,21 @@ processorResponseCode,processorResponseCode,module,Magento_Braintree
 processorResponseText,processorResponseText,module,Magento_Braintree
 braintree,braintree,module,Magento_Braintree
 liabilityShifted,liabilityShifted,module,Magento_Braintree
-liabilityShiftPossible,liabilityShiftPossible,module,Magento_Braintree
-riskDataId,riskDataId,module,Magento_Braintree
-riskDataDecision,riskDataDecision,module,Magento_Braintree
-paymentId,paymentId,module,Magento_Braintree
-payerEmail,payerEmail,module,Magento_Braintree
-sale,sale,module,Magento_Braintree
-credit,credit,module,Magento_Braintree
+liabilityShiftPossible,ليابيليتيشيفتبوسيبلي,module,Magento_Braintree
+riskDataId,ريسكداتيد,module,Magento_Braintree
+riskDataDecision,ريسكداتاديسيسيون,module,Magento_Braintree
+paymentId,بايمينتيد,module,Magento_Braintree
+payerEmail,بيرميل,module,Magento_Braintree
+sale,بيع,module,Magento_Braintree
+credit,الرصيد,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
-authorizing,authorizing,module,Magento_Braintree
-authorized,authorized,module,Magento_Braintree
+authorizing,الإذن,module,Magento_Braintree
+authorized,مصرّح,module,Magento_Braintree
 gateway_rejected,gateway_rejected,module,Magento_Braintree
-failed,failed,module,Magento_Braintree
+failed,فشل,module,Magento_Braintree
 processor_declined,processor_declined,module,Magento_Braintree
-settled,settled,module,Magento_Braintree
-settling,settling,module,Magento_Braintree
+settled,"تمت التسوية",module,Magento_Braintree
+settling,"جاري التسوية",module,Magento_Braintree
 submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
 voided,voided,module,Magento_Braintree
 unrecognized,unrecognized,module,Magento_Braintree
