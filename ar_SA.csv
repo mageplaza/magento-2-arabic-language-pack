@@ -1032,7 +1032,7 @@ Header,الترويسة,module,Magento_Banner
 "Specify Banners","حدد لافتة",module,Magento_Banner
 "Banner Block Template","قالب كتلة اللافتة",module,Magento_Banner
 "Banner Inline Template","قالب الشعار المضمن",module,Magento_Banner
-cc_type,sss,module,Magento_Braintree
+cc_type,cc_type,module,Magento_Braintree
 cc_number,cc_number,module,Magento_Braintree
 avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
 avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
@@ -1042,11 +1042,11 @@ processorResponseCode,processorResponseCode,module,Magento_Braintree
 processorResponseText,processorResponseText,module,Magento_Braintree
 braintree,braintree,module,Magento_Braintree
 liabilityShifted,liabilityShifted,module,Magento_Braintree
-liabilityShiftPossible,ليابيليتيشيفتبوسيبلي,module,Magento_Braintree
-riskDataId,ريسكداتيد,module,Magento_Braintree
-riskDataDecision,ريسكداتاديسيسيون,module,Magento_Braintree
-paymentId,بايمينتيد,module,Magento_Braintree
-payerEmail,بيرميل,module,Magento_Braintree
+liabilityShiftPossible,liabilityShiftPossible,module,Magento_Braintree
+riskDataId,riskDataId,module,Magento_Braintree
+riskDataDecision,riskDataDecision,module,Magento_Braintree
+paymentId,paymentId,module,Magento_Braintree
+payerEmail,payerEmail,module,Magento_Braintree
 sale,بيع,module,Magento_Braintree
 credit,الرصيد,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
@@ -1058,8 +1058,8 @@ processor_declined,processor_declined,module,Magento_Braintree
 settled,"تمت التسوية",module,Magento_Braintree
 settling,"جاري التسوية",module,Magento_Braintree
 submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
-voided,voided,module,Magento_Braintree
-unrecognized,unrecognized,module,Magento_Braintree
+voided,ملغي,module,Magento_Braintree
+unrecognized,"غير معروف",module,Magento_Braintree
 settlement_declined,settlement_declined,module,Magento_Braintree
 settlement_pending,settlement_pending,module,Magento_Braintree
 settlement_confirmed,settlement_confirmed,module,Magento_Braintree
@@ -2426,7 +2426,7 @@ Type,النوع,module,Magento_CatalogRule
 "Attribute Set","مجموعة السمة",module,Magento_CatalogRule
 SKU,SKU,module,Magento_CatalogRule
 Product,المنتج,module,Magento_CatalogRule
-Promotions,الترقيات,module,Magento_CatalogRule
+Promotions,العروض,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","ووجدنا تحديث للقواعد التي لم يتم تطبيقها. الرجاء النقر فوق ""تطبيق القواعد"" لتحديث الكتالوج.",module,Magento_CatalogRule
 "We can't apply the rules.","لا يمكن تطبيق هذه القواعد.",module,Magento_CatalogRule
 "You deleted the rule.","قمت بحذف القاعدة.",module,Magento_CatalogRule
@@ -2445,7 +2445,7 @@ Promo,الترويج,module,Magento_CatalogRule
 "Unable to remove rule %1","غير قادر على حذف القاعدة %1",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","لا يمكن إعادة إنشاء الفهرس لمجموعة منتجات فارغة",module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","لا يمكن إعادة إنشاء الفهرس لمنتج غير معروف.",module,Magento_CatalogRule
-"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
+"Catalog rule indexing failed. See details in exception log.","فشل إنشاء فهرس القاعدة. أنظر إلى التفاصيل في سجل الاستثناء.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","يجب أن تكون نسبة الخصم المئوية بين 0 و 100.",module,Magento_CatalogRule
 "Discount value should be 0 or greater.","يجب أن تكون قيمة الخصم 0 أو أكبر.",module,Magento_CatalogRule
 "Unknown action.","إجراء غير معروف.",module,Magento_CatalogRule
@@ -2554,7 +2554,7 @@ Relevance,الصله,module,Magento_CatalogSearch
 "Please specify at least one search term.","الرجاء تحديد مصطلح بحث واحد على الأقل.",module,Magento_CatalogSearch
 "%1 and greater","%1 وأكبر",module,Magento_CatalogSearch
 "up to %1","حتى %1",module,Magento_CatalogSearch
-". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
+". "" which is inconsistent with state of scope resolver""",". ""وهو لا يتفق مع حالة محلل النطاق""",module,Magento_CatalogSearch
 Category,القسم,module,Magento_CatalogSearch
 "%1 and above","%1 واكثر",module,Magento_CatalogSearch
 "%1 - %2",%1-%2,module,Magento_CatalogSearch
@@ -2751,7 +2751,7 @@ items,قطع,module,Magento_Checkout
 Error!,خطأ!,module,Magento_Checkout
 "DB exception","استثناء DB",module,Magento_Checkout
 Message,رسالة,module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","طباعة الإيصال",module,Magento_Checkout
 "Apply Discount Code","استخدام كود خصم",module,Magento_Checkout
 "Enter discount code","أدخل كود الخصم",module,Magento_Checkout
 "Apply Discount","تطبيق الخصم",module,Magento_Checkout
@@ -3450,24 +3450,24 @@ Contacts,المتصلين,module,Magento_Contact
 "Cookie Restriction Mode","وضع تقييد ملفات تعريف الارتباط",module,Magento_Cookie
 "We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
 Daily,يوميا,module,Magento_Cron
-Weekly,اسبوعيا,module,Magento_Cron
+Weekly,إسبوعياً,module,Magento_Cron
 Monthly,شهريا,module,Magento_Cron
-"Invalid cron expression: %1","التعبير كرون غير صالح: %1",module,Magento_Cron
+"Invalid cron expression: %1","قيمة المهمة المجدولة غير صالحة: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
-"Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1",module,Magento_Cron
+"Invalid cron expression, expecting numeric modulus: %1","قيمة المهمة المجدولة غير صالحة, المتوقع قيمة عددية",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
 "Some error","خطأ ما",module,Magento_Cron
-"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called",module,Magento_Cron
-"Test exception","Test exception",module,Magento_Cron
-"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
-"Cron configuration options for group:","Cron configuration options for group:",module,Magento_Cron
-"Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
-"Schedule Ahead for","جدولة مقدما لـ",module,Magento_Cron
-"Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
-"History Cleanup Every","History Cleanup Every",module,Magento_Cron
-"Success History Lifetime","Success History Lifetime",module,Magento_Cron
-"Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
+"Invalid callback: Not_Existed_Class::execute can't be called","استدعاء غير صالح: كلاس_غير_موجودة::لا يمكن استدعائها",module,Magento_Cron
+"Test exception","استثناء للاختبار",module,Magento_Cron
+"Cron (Scheduled Tasks)","المهام المجدولة",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","لعمل روابط المهام المجدولة التي تم انشائها بالشكل الصحيح رجاءً تاكد من انها وضعت بالشكل الصحيح,جميع الاوقات بالدقائق.",module,Magento_Cron
+"Cron configuration options for group:","اعدادت المهم المجدولة للمجموعة:",module,Magento_Cron
+"Generate Schedules Every","توليد جداول كل",module,Magento_Cron
+"Schedule Ahead for","مهمة مجدولة لـ",module,Magento_Cron
+"Missed if Not Run Within","مفقود اذا لم يتم التشغيل من تلقاء نفسها",module,Magento_Cron
+"History Cleanup Every","تنظيف السجل (الكاش)كل",module,Magento_Cron
+"Success History Lifetime","نجاح سجل التاريخ منذ البدء",module,Magento_Cron
+"Failure History Lifetime","فشل سجل التاريخ منذ البدء",module,Magento_Cron
 "Use Separate Process","استخدام عملية منفصلة",module,Magento_Cron
 "Save Currency Rates","حفظ أسعار العملات",module,Magento_CurrencySymbol
 Options,الخيارات,module,Magento_CurrencySymbol
@@ -3490,7 +3490,7 @@ System,النظام,module,Magento_CurrencySymbol
 "Old rate:","معدل العمر:",module,Magento_CurrencySymbol
 Currency,العملة,module,Magento_CurrencySymbol
 [GLOBAL],[GLOBAL],module,Magento_CustomAttributeManagement
-[WEBSITE],[الموقع],module,Magento_CustomAttributeManagement
+[WEBSITE],[WEBSITE],module,Magento_CustomAttributeManagement
 "[STORE VIEW]","[STORE VIEW]",module,Magento_CustomAttributeManagement
 "The current module XML block name is undefined.","اسم الوحدة النمطية الحالية في قائمة XML غير معرف.",module,Magento_CustomAttributeManagement
 "The current module form model pathname is undefined.","لم يتم تعريف اسم مسار نموذج نموذج الوحدة النمطية الحالية.",module,Magento_CustomAttributeManagement
@@ -3501,20 +3501,20 @@ Yes,نعم,module,Magento_CustomAttributeManagement
 "Please correct the values for minimum and maximum text length validation rules.","Please correct the values for minimum and maximum text length validation rules.",module,Magento_CustomAttributeManagement
 "Please correct the values for minimum and maximum date validation rules.","Please correct the values for minimum and maximum date validation rules.",module,Magento_CustomAttributeManagement
 "Text Field","حقل النص",module,Magento_CustomAttributeManagement
-"Text Area","منطقة النص",module,Magento_CustomAttributeManagement
-"Multiple Line","Multiple Line",module,Magento_CustomAttributeManagement
+"Text Area","مربع نص",module,Magento_CustomAttributeManagement
+"Multiple Line","أسطر متعددة",module,Magento_CustomAttributeManagement
 Date,التاريخ,module,Magento_CustomAttributeManagement
-Dropdown,انزال,module,Magento_CustomAttributeManagement
+Dropdown,"قائمة منسدلة",module,Magento_CustomAttributeManagement
 "Multiple Select","خيارات متعددة",module,Magento_CustomAttributeManagement
 Yes/No,نعم/لا,module,Magento_CustomAttributeManagement
 "File (attachment)","ملف (مرفق)",module,Magento_CustomAttributeManagement
 "Image File","ملف الصورة",module,Magento_CustomAttributeManagement
 Alphanumeric,"أبجدي رقمي",module,Magento_CustomAttributeManagement
 "Numeric Only","ارقام فقط",module,Magento_CustomAttributeManagement
-"Alpha Only","ألفا فقط",module,Magento_CustomAttributeManagement
+"Alpha Only","أحرف فقط",module,Magento_CustomAttributeManagement
 URL,الرابط,module,Magento_CustomAttributeManagement
 Email,"البريد الإلكتروني",module,Magento_CustomAttributeManagement
-"Strip HTML Tags","Strip HTML Tags",module,Magento_CustomAttributeManagement
+"Strip HTML Tags","إزالة وسم HTML",module,Magento_CustomAttributeManagement
 "Escape HTML Entities","Escape HTML Entities",module,Magento_CustomAttributeManagement
 "Normalize Date","Normalize Date",module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.",module,Magento_CustomAttributeManagement
@@ -3663,7 +3663,7 @@ Download,تحميل,module,Magento_Customer
 "Please correct the quote items and try again.","Please correct the quote items and try again.",module,Magento_Customer
 "You have revoked the customer's tokens.","تم إبطال الرموز المميزة للعميل.",module,Magento_Customer
 "We can't find a customer to revoke.","لا يمكن أن نجد أحد العملاء لإلغائه.",module,Magento_Customer
-"Something went wrong while saving file.","Something went wrong while saving file.",module,Magento_Customer
+"Something went wrong while saving file.","حدث خطأ ما أثناء حفظ الملف.",module,Magento_Customer
 "You deleted the customer group.","لقد حذفت مجوعة العميل.",module,Magento_Customer
 "The customer group no longer exists.","The customer group no longer exists.",module,Magento_Customer
 Customers,العملاء,module,Magento_Customer
@@ -3682,7 +3682,7 @@ Customers,العملاء,module,Magento_Customer
 "A total of %1 record(s) were deleted.","تم حذف %1 من السجلات.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","العميل سوف يتلقى رسالة بريد إلكتروني مع رابط لإعادة تعيين كلمة المرور.",module,Magento_Customer
 "Something went wrong while resetting customer password.","حدث خطأ أثناء إعادة كلمة المرور.",module,Magento_Customer
-"You saved the customer.","You saved the customer.",module,Magento_Customer
+"You saved the customer.","تم حفظ العميل.",module,Magento_Customer
 "Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
 "Page not found.","لم يتم العثور على الصفحة.",module,Magento_Customer
 "Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
@@ -3694,8 +3694,8 @@ Customers,العملاء,module,Magento_Customer
 "Invalid login or password.","البريد الإلكتروني أو كلمة المرور غير صحيحة.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" section source is not supported",module,Magento_Customer
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","لاتمتد %1 \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"No confirmation needed.","No confirmation needed.",module,Magento_Customer
-"Account already active","Account already active",module,Magento_Customer
+"No confirmation needed.","لا يحتاج تأكيد.",module,Magento_Customer
+"Account already active","الحساب نشط بالفعل",module,Magento_Customer
 "Invalid confirmation token","شفرة تأكيد خاطئة",module,Magento_Customer
 "The account is locked.","تم اقفال هذا الحساب.",module,Magento_Customer
 "This account is not confirmed.","This account is not confirmed.",module,Magento_Customer
@@ -8313,6 +8313,7 @@ Action,إجراء,module,Magento_Reports
 Report,تقرير,module,Magento_Reports
 Description,الوصف,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","حفظ المشاهدة",module,Magento_Review
 "New Review","مراجعة جديدة",module,Magento_Review
 "Review Details","تفاصيل المراجعة",module,Magento_Review
