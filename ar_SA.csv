@@ -1662,7 +1662,7 @@
 "Category is not available for requested store.","القسم غير متاح للمتجر المطلوب.",module,Magento_Catalog
 "There was a category move error.","كان هناك خطأ في نقل الفئة %1.",module,Magento_Catalog
 "You moved the category.","لقد قمت بنقل القسم.",module,Magento_Catalog
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
+"The ""%1"" attribute is required. Enter and try again.","سمة ال""%1"" مطلوبة. أدخل قيمتها ثم حاول مرة أخرى.",module,Magento_Catalog
 "You saved the category.","لقد قمت بحفظ القسم.",module,Magento_Catalog
 "Something went wrong while saving the category.","حدث خطأ أثناء حفظ القسم.",module,Magento_Catalog
 "Please select products for attributes update.","الرجاء اختيار المنتجات للصفات المحدثة.",module,Magento_Catalog
@@ -1670,7 +1670,7 @@
 "A total of %1 record(s) were updated.","عدد %1 سجلات تم تحديثها.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","حدث خطأ أثناء تحديث سمات المنتج (المنتجات).",module,Magento_Catalog
 "Unable to add attribute","غير قادر على إضافة سمة",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
+"Attributes were missing and must be specified.","يوجد سمات مفقودة ويجب تحديدها.",module,Magento_Catalog
 "Catalog","دليل المنتجات",module,Magento_Catalog
 "Manage Product Attributes","ادارة منتج السمات",module,Magento_Catalog
 "We can't delete the attribute.","لا نستطيع حذف السمة.",module,Magento_Catalog
@@ -1686,7 +1686,7 @@
 "You saved the product attribute.","يمكنك حفظ السمة المنتج.",module,Magento_Catalog
 "An attribute with this code already exists.","سمة بهذا الكود موجودة سابقا.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","السمة مع نفس الكود (%1) موجودة بالفعل.",module,Magento_Catalog
-"A ""%1"" attribute set name already exists. Create a new name and try again.","A ""%1"" attribute set name already exists. Create a new name and try again.",module,Magento_Catalog
+"A ""%1"" attribute set name already exists. Create a new name and try again.","""%1"" اسم مجموعة السمة هذا موجود من قبل. جد اسما جديدا وحاول مرة أخرى.",module,Magento_Catalog
 "The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
 "The value of Admin scope can't be empty.","لا يمكن أن تكون قيمة نطاق المشرف فارغة.",module,Magento_Catalog
 "You duplicated the product.","تم تكرار هذا المنتج.",module,Magento_Catalog
@@ -1698,7 +1698,7 @@
 "A total of %1 record(s) have been deleted.","عدد %1 سجلات تم حذفها.",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","عدد %1 سجلات تم تحديثها.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","حدث خطأ أثناء تحديث حالة المنتج (المنتجات).",module,Magento_Catalog
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_Catalog
+"The product was unable to be saved. Please try again.","المنتج لم يحفظ. الرجاء المحاولة مرة أخرى.",module,Magento_Catalog
 "You saved the product.","قمت بحفظ المنتج.",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","تم تغيير وحدة SKU للمنتج %1 إلى %2.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","لا يمكن إزالة الصورة كما أنه قد تم تعيينها إلى صلاحية صورة أخرى",module,Magento_Catalog
@@ -1731,7 +1731,7 @@
 "We can't move the category because the parent category name matches the child category name.","لا يمكن نقل الفئة لتطابق اسم الفئة الأصلية اسم فئة فرعية.",module,Magento_Catalog
 "Something went wrong while getting the image url.","حدث خطأ أثناء الحصول على عنوان url للصورة.",module,Magento_Catalog
 "Can't delete root category.","لا يمكن حذف فئة الجذر.",module,Magento_Catalog
-"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Catalog
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","قيمة السمة ""%1"" غير فريدة. حدد قيمة فريدة للسمة وحاول مرة أخرى.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","قائمة المنتج الافتراضي الذي تم به الفرز لم يتم إنشاؤه في قائمة المنتجات المتوفرة التي يتم حسبها الفرز.",module,Magento_Catalog
 "No layout updates","لا يوجد تخطيط تحديثات",module,Magento_Catalog
 "Products only","المنتجات فقط",module,Magento_Catalog
@@ -1771,7 +1771,7 @@
 "Center","الوسط",module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","غير ممتد %1 \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Something went wrong while saving the file(s).","حدث خطأ أثناء حفظ الملفات.",module,Magento_Catalog
-"File validation failed.","File validation failed.",module,Magento_Catalog
+"File validation failed.","التحقق من صحة الملف فشل.",module,Magento_Catalog
 "File can not be saved to the destination folder.","لا يمكن حفظ الملف إلى المجلد الوجهة.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","نوع الفهرسة EAV غير معروف ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","لا يمكن إعادة إنشاء الفهرس لمنتج غير معروف.",module,Magento_Catalog
@@ -1789,44 +1789,44 @@
 "The filter must be an object. Please set the correct filter.","جب أن يكون عامل التصفية عامل او اختيار. الرجاء تعيين عامل التصفية الصحيح.",module,Magento_Catalog
 "Clear Price","مسح الأسعار",module,Magento_Catalog
 "%1 and above","%1 واكثر",module,Magento_Catalog
-"The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
-"The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
+"The filters are invalid. Set them in an array and try again.","قيم المرشحات غير مقبولة. ضعهم في مصفوفة ثم حاول مرة أخرى.",module,Magento_Catalog
+"The product wasn't registered.","المنتج لم يسجل.",module,Magento_Catalog
+"The store wasn't registered. Verify the store and try again.","المتجر لم يسجل. تأكد من المتجر وحاول مرة أخرى.",module,Magento_Catalog
 "Group price must be a number greater than 0.","يجب أن تكون أسعار المجموعة رقم أكبر من 0.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","محول معرض الصور يجب أن يكون مثل واجهة مدخل التحويل.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","لايوجد برنامج تحويل لهذا النوع من ملفات الوسائط",module,Magento_Catalog
 "Please enter a number 0 or greater in this field.","الرجاء إدخال رقم 0 أو أكبر في هذا الحقل.",module,Magento_Catalog
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
+"The ""%1"" attribute value is empty. Set the attribute and try again.","قيمة السمة ""%1"" فارغة. ضع قيمة للسمة ثم حاول مرة أخرى.",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","يجب أن يكون طول SKU %1 حرفاً كحد أقصى.",module,Magento_Catalog
 "Please enter a valid number in this field.","الرجاء ادخال عدد في هذا المجال.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","وجدنا الموقع مكرر ومستوى الأسعار ومجموعة العملاء والكمية.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","يجب أن تكون قيمة النسبة المئوية رقم بين 0 و 100.",module,Magento_Catalog
 "Invalid option id %1","خيار غير صالح معرف %1",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-product attribute set.","لا يمكن حفظ مجموعة السمة لأنها على أساس مجموعة سمة لا تخص أي منتج.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-existing attribute set.","لا يمكن حفظ مجموعة السمة لأنها على أساس مجموعة سمة غير موجودة.",module,Magento_Catalog
 "Provided Attribute set non product Attribute set.","سمات المنتج التي تم تعيينها ليست سمات منتج.",module,Magento_Catalog
 "Use config","استخدام التكوين",module,Magento_Catalog
 "Enabled","تفعيل",module,Magento_Catalog
 "Disabled","غير مفعل",module,Magento_Catalog
 "Attribute Set already exists.","تعيين السمة موجودة بالفعل.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","ا أستطع نسخ الملف %1. الرجاء حذف الوسائط مع الصور غير موجودة وحاول مرة أخرى.",module,Magento_Catalog
-"The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again.",module,Magento_Catalog
-"The product can't be saved.","The product can't be saved.",module,Magento_Catalog
-"The new media gallery entry failed to save.","The new media gallery entry failed to save.",module,Magento_Catalog
-"No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
-"The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist.","The image doesn't exist.",module,Magento_Catalog
-"The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
-"The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
-"Can't get information about the picture: %1","Can't get information about the picture: %1",module,Magento_Catalog
+"The image content is invalid. Verify the content and try again.","محتويات الصورة غير صحيحة. تأكد من المحتويات ثم حاول مرة أخرى.",module,Magento_Catalog
+"The product can't be saved.","لا يمكن حفظ المنتج.",module,Magento_Catalog
+"The new media gallery entry failed to save.","لا يمكن حفظ الإضافة الجديدة لمجموعة الصور.",module,Magento_Catalog
+"No image with the provided ID was found. Verify the ID and try again.","لم يوجد أي صورة مطابقة للمعرف المطلوب.",module,Magento_Catalog
+"The product doesn't exist. Verify and try again.","المنتج غير موجود. تأكد ثم حاول مرة أخرى.",module,Magento_Catalog
+"The image doesn't exist. Verify and try again.","الصورة غير موجودة. تأكد ثم حاول مرة أخرى.",module,Magento_Catalog
+"The image doesn't exist.","الصورة غير موجودة.",module,Magento_Catalog
+"The image type for the file is invalid. Enter the correct image type and try again.","نوع الصورة للملف غير صحيح. أدخل النوع الصحيح للصورة ثم حاول مرة أخرى.",module,Magento_Catalog
+"The ""%1"" file couldn't be moved.","لا يمكن نقل الملف ""%1"".",module,Magento_Catalog
+"Can't get information about the picture: %1","لم أتمكن من جلب المعلومات عن الصورة %1",module,Magento_Catalog
 "The option type to get group instance is incorrect.","نوع الخيار للحصول على مجموعة مشابهة غير صحيح.",module,Magento_Catalog
 "Select type options required values rows.","حدد نوع الخيارات لقيم الصفوف المطلوبة.",module,Magento_Catalog
-"The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_Catalog
-"The custom option couldn't be removed.","The custom option couldn't be removed.",module,Magento_Catalog
+"The ProductSku is empty. Set the ProductSku and try again.","رقم معرف المنتج فارغ. ضع رقما معرفا للمنتج ثم حاول مرة أخرى.",module,Magento_Catalog
+"The custom option couldn't be removed.","لم أتمكن من حذف الخيار المخصص.",module,Magento_Catalog
 "Please specify date required option(s).","يرجى تحديد التاريخ المطلوب خيار (خيارات).",module,Magento_Catalog
 "Please specify time required option(s).","الرجاء تحديد خيار (خيارات) الوقت المطلوب.",module,Magento_Catalog
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again.",module,Magento_Catalog
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","لم تدخل خيار(ات) المنتج المطلوبة. تأكد من إدخالها ثم حاول مرة أخرى.",module,Magento_Catalog
 "The option instance type in options group is incorrect.","نوع مثيل خيار في مجموعة الخيارات غير صحيح.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","نوع المثيل المنتج في مجموعة الخيارات غير صحيح.",module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","خيار إعداد المنتج في خيارات المجموعة غير صحيح.",module,Magento_Catalog
@@ -1834,20 +1834,20 @@
 "The BuyRequest instance in options group is incorrect.","نموذج طلب الشراء في خيارات المجموعة غير صحيح.",module,Magento_Catalog
 "We can't add the product to the cart because of an option validation issue.","لا يمكنك إضافة المنتج إلى السلة بسبب خيار التحقق من الصحة.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","غير ممتد %1 \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
-"The file options format is invalid. Use a correct format and try again.","The file options format is invalid. Use a correct format and try again.",module,Magento_Catalog
+"The file options format is invalid. Use a correct format and try again.","تنسيق خيارات الملف غير صحيحة. استخدم التنسيق الصحيح ثم حاول مرة أخرى.",module,Magento_Catalog
 "px.","بكسل.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","الملف '%1' من أجل '%2' يحتوي على لاحقة غير صحيحة.",module,Magento_Catalog
 "The maximum allowed image size for '%1' is %2x%3 px.","الحد الأقصى المسموح لحجم الصورة لـ '%1' هو %2x%3 بيكسل.",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","الملف '%1' الذي قمت بتحميله أكبر من ميغا بايت %2 المسموح بها من قبل الخادم.",module,Magento_Catalog
-"The file ""%1"" is empty. Select another file and try again.","The file ""%1"" is empty. Select another file and try again.",module,Magento_Catalog
+"The file ""%1"" is empty. Select another file and try again.","الملف ""%1"" فارغ. اختر ملفا آخرا ثم حاول مرة أخرى.",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","الملف '%1' غير صحيح. الرجاء اختيار اسم آخر",module,Magento_Catalog
 "File '%1' is not an image.","الملف '%1' ليس صورة.",module,Magento_Catalog
-"The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","The validation failed. Make sure the required options are entered and the file is uploaded, then try again.",module,Magento_Catalog
-"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.",module,Magento_Catalog
-"The required option wasn't entered. Enter the option and try again.","The required option wasn't entered. Enter the option and try again.",module,Magento_Catalog
-"The file is empty. Select another file and try again.","The file is empty. Select another file and try again.",module,Magento_Catalog
+"The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","فشل التحقق من صحة الملف. تأكد من إدخال الخيارات المطلوبة ومن رفع الملف ثم حاول مرة أخرى.",module,Magento_Catalog
+"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","حجم الملف أكبر من الحد الأقصى ولا يمكن رفعه. استخدم ملفا أصغر من %1 ميجابايت وحاول الرفع مرة أخرى.",module,Magento_Catalog
+"The required option wasn't entered. Enter the option and try again.","لم تدخل الخيارات المطلوبة. أدخل الخيار وحاول الرفع مرة أخرى.",module,Magento_Catalog
+"The file is empty. Select another file and try again.","الملف فارغ. اختر ملفا آخر وحاول مرة أخرى.",module,Magento_Catalog
 "Some of the selected item options are not currently available.","بعض الخيارات او العناصر المحدد غير متوفرة حاليا.",module,Magento_Catalog
-"The text is too long. Shorten the text and try again.","The text is too long. Shorten the text and try again.",module,Magento_Catalog
+"The text is too long. Shorten the text and try again.","النص طويل جداً. أدخل نصاً اقصر ثم حاول مرة أخرى.",module,Magento_Catalog
 "Invalid attribute %fieldName = %fieldValue.","سمة غير مقبولة %fieldName = %fieldValue.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","لم يتم العثور على المتجر المطلوب. معرف الصف: وحدة التخزين = %SKU، معرف المتجر: %storeId.",module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","سمة غير مقبولة التكلفة = %cost. معرف الصف: وحدة التخزين = %SKU، معرف المتجر: %storeId.",module,Magento_Catalog
@@ -1867,7 +1867,7 @@
 "Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","سمة معرف للموقع غير مقبولة = %websiteId معرف الصف: وحدة التخزين = %SKU، معرف الموقع %websiteId، مجموعة العملاء: %customerGroup، الكمية: %qty.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","تكرار في الموقع وأسعار الكميات ومجموعة العملاء: مجموعة العميل = %customerGroup، معرف الموقع =%websiteId، الكمية = %qty. معرف صف:, وحدة التخزين = %SKU، معرف الموقع: %websiteId، مجموعة من العملاء: %customerGroup، الكمية: %qty.",module,Magento_Catalog
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","لا يوجد مثل هذا الكيان مع مجموعة العملاء = %customerGroup. معرف الصف: وحدة التخزين= %SKU، معرف الموقع: %websiteId، مجموعة العملاء: %customerGroup، الكمية: %qty.",module,Magento_Catalog
-"Tier price is unavailable for this product.","Tier price is unavailable for this product.",module,Magento_Catalog
+"Tier price is unavailable for this product.","سعر الفئة غير موجود لهذا المنتج.",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","المنتج لا ينتمي لمجموعة سعرية برقم = '%1' و الموقع = %2 والكمية = %3",module,Magento_Catalog
 "The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
 "The group price couldn't be saved.","The group price couldn't be saved.",module,Magento_Catalog
@@ -2803,7 +2803,7 @@
 "You added %1 to your shopping cart.","تمت إضافة %1 إلى عربة التسوق.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","لا يمكننا الآن إضافة هذا البند إلى عربة التسوق الخاصة بك.",module,Magento_Checkout
 "Out of stock","غير متوفر بالمخزن",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","لم يتم العثور على عنصر عرض الأسعار. تحقق من عنصر وحاول مرة أخرى.",module,Magento_Checkout
 "We cannot configure the product.","لا يمكننا إعداد هذا المنتج.",module,Magento_Checkout
 "You used coupon code ""%1"".","يمكنك استخدام رمز قسيمة الخصم""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","رمز قسيمة الخصم""%1"" غير صحيح.",module,Magento_Checkout
@@ -2817,12 +2817,12 @@
 "Guest checkout is disabled.","الشراء كزائر غير مفعلة في الوقت الحالي.",module,Magento_Checkout
 "Checkout","شراء",module,Magento_Checkout
 "Page not found.","لم يتم العثور على الصفحة.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","لم يتم إتمام الطلب، يجب أولا الموافقة على الشروط والأحكام، ثم محاولة إتمام الطلب مرة أخرى.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","حدث خطأ أثناء معالجة طلبك. الرجاء المحاولة لاحقاً.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 لا تمتد الى \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","طريقة الدفع",module,Magento_Checkout
 "Payment Page","صفحة الدفع",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","لم يتم العثور على المنتج. تحقق من المنتج وحاول مرة أخرى.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","يوجد طلب غير صحيح في مواد العرض.",module,Magento_Checkout
 "The product does not exist.","هذا المنتج غير موجود.",module,Magento_Checkout
 "We don't have some of the products you want.","ليس لدينا بعض المنتجات التي تريدها.",module,Magento_Checkout
@@ -2833,11 +2833,11 @@
 "Display number of items in cart","عرض عدد القطع في سلة التسوق",module,Magento_Checkout
 "Display item quantities","عرض كميات السلع",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","حدث خطأ في الخادوم. الرجاء محاولة وضع الطلب مرة أخرى.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","خطأ في خادم الموقع أدي لإيقاف إتمام الطلب. الرجاء محاولة الطلب مرة أخرى.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","عنوان الشحن مفقود. حدد العنوان وحاول مرة أخرى.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","لم يكن ممكنا حفظ معلومات الشحن. تحقق من البيانات المدخلة وحاول مرة أخرى.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","لم يتم العثور على ناقل بمثل هذه الطريقة: %1، %2",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","لا يمكن تحدد الشحن عندما تكون السلة فارغة. يرجى إضافة منتجات لسلة التسوق والمحاولة مرة أخرى.",module,Magento_Checkout
 "item","قطعة",module,Magento_Checkout
 "items","قطع",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","مجموع الحساب لا ينطبق على السلة الفارغة",module,Magento_Checkout
@@ -2936,7 +2936,7 @@
 "Select a new payment method","اختر وسيلة دفع جديدة",module,Magento_Checkout
 "Shipping","الشحن",module,Magento_Checkout
 "Save Address","حفظ عنوان",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","طريقة الشحن مفقود. حدد طريقة الشحن وحاول مرة أخرى.",module,Magento_Checkout
 "Checkout Options","خيارات إتمام الدفع",module,Magento_Checkout
 "Enable Onepage Checkout","تفعيل الشراء في صفحة واحدة",module,Magento_Checkout
 "Allow Guest Checkout","السماح للزائر بإنهاء عملية الشراء",module,Magento_Checkout
@@ -2945,7 +2945,7 @@
 "Quote Lifetime (days)","اقتبس من العمر (أيام)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","بعد إضافة المنتج إلى سلة التسوق إعادة توجيه",module,Magento_Checkout
 "Number of Items to Display Pager","عدد العناصر التي يتم عرضها في الصفحة",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","إظهار منتجات للعميل بناء على المنتحات مشترياته في عربة التسوق",module,Magento_Checkout
 "My Cart Link","وصلة سلتي",module,Magento_Checkout
 "Display Cart Summary","عرض ملخص سلة التسوق",module,Magento_Checkout
 "Shopping Cart Sidebar","الشريط الجانبي لعربة التسوق",module,Magento_Checkout
@@ -3002,14 +3002,14 @@
 "Something went wrong while saving this condition.","حدث خطأ أثناء حفظ هذا الشرط.",module,Magento_CheckoutAgreements
 "Automatically","تلقائياً",module,Magento_CheckoutAgreements
 "Manually","يدوياً",module,Magento_CheckoutAgreements
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_CheckoutAgreements
-"The ""%1"" checkout agreement couldn't be saved.","The ""%1"" checkout agreement couldn't be saved.",module,Magento_CheckoutAgreements
-"The ""%1"" checkout agreement couldn't be removed.","The ""%1"" checkout agreement couldn't be removed.",module,Magento_CheckoutAgreements
-"A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.",module,Magento_CheckoutAgreements
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","لم يتم إتمام الطلب، يجب أولا الموافقة على الشروط والأحكام، ثم محاولة إتمام الطلب مرة أخرى.",module,Magento_CheckoutAgreements
+"The ""%1"" checkout agreement couldn't be saved.","لا يمكن حفظ اتفاقية إتمام الشراء ""%1"".",module,Magento_CheckoutAgreements
+"The ""%1"" checkout agreement couldn't be removed.","لا يمكن إزالة اتفاقية إتمام الشراء ""%1"".",module,Magento_CheckoutAgreements
+"A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","لم يتم العثور اتفاقية إتمام الطلب بالمعرف ""%1"" المحدد. تحقق من المعرف وحاول مرة أخرى.",module,Magento_CheckoutAgreements
 "Close","إغلاق",module,Magento_CheckoutAgreements
 "Terms & Conditions","الشروط والأحكام",module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","تمكين الشروط والأحكام",module,Magento_CheckoutAgreements
-"The order can't be submitted in preview mode.","The order can't be submitted in preview mode.",module,Magento_CheckoutStaging
+"The order can't be submitted in preview mode.","لا يمكن إرسال الطلب في وضع المعاينة.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","عمر التقدير (بالدقائق)",module,Magento_CheckoutStaging
 "Static Blocks","كتل ثابتة",module,Magento_Cms
 "Add New Block","اضافة مساحة جديدة",module,Magento_Cms
