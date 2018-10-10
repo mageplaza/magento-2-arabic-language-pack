@@ -310,11 +310,11 @@
 "'Action Details - #' .","'تفاصيل العملية - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 صنف (أصناف) على جدول التحديث.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","سجل الإجراءات",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","حجم التشفير %لم يحدث تشفير",module,Magento_AsynchronousOperations
+"Topic %1","المطلب 1%",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","حدث خطأ أثناء معالجة الطلب.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","حدث خطأ أثناء معالجة % عنصرا رئيسيا في إدخال البيانات",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","آسف، حدث خطأ أثناء تحديث أسعار المنتج. الرجاء مراجعة السجل للحصول على التفاصيل.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","يجري حاليا تحديث %1 صنف (أصناف).",module,Magento_AsynchronousOperations
 "Task ""%1"":","المهمة ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 صنف (أصناف) على جدول التحديث.",module,Magento_AsynchronousOperations
@@ -329,9 +329,9 @@
 ", %1 failed to update","لم يتم تحديث %1",module,Magento_AsynchronousOperations
 "Something went wrong.","لقد حدث خطأ ما.",module,Magento_AsynchronousOperations
 "Action Log","سجل الإجراءات",module,Magento_AsynchronousOperations
-"Report","Report",module,Magento_AsynchronousOperations
+"Report","التقرير",module,Magento_AsynchronousOperations
 "Bulk Actions","مجموعة إجراءات",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Action Logs","سجلات الأداء",module,Magento_AsynchronousOperations
 "Days Saved in Log","أيام محفوظة في سجل",module,Magento_AsynchronousOperations
 "Description of Operation","وصف العملية",module,Magento_AsynchronousOperations
 "Summary","ملخص",module,Magento_AsynchronousOperations
@@ -1687,7 +1687,7 @@
 "An attribute with this code already exists.","سمة بهذا الكود موجودة سابقا.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","السمة مع نفس الكود (%1) موجودة بالفعل.",module,Magento_Catalog
 "A ""%1"" attribute set name already exists. Create a new name and try again.","""%1"" اسم مجموعة السمة هذا موجود من قبل. جد اسما جديدا وحاول مرة أخرى.",module,Magento_Catalog
-"The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
+"The value of Admin must be unique. (%1)","قيمة (المدير) Admin يجب أن تكون فريدة. (%1)",module,Magento_Catalog
 "The value of Admin scope can't be empty.","لا يمكن أن تكون قيمة نطاق المشرف فارغة.",module,Magento_Catalog
 "You duplicated the product.","تم تكرار هذا المنتج.",module,Magento_Catalog
 "This product doesn't exist.","هذا المنتج غير موجود.",module,Magento_Catalog
@@ -1740,7 +1740,7 @@
 "Please select a static block.","الرجاء تحديد كتلة ثابتة.",module,Magento_Catalog
 "frontend_label","frontend_label",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","تعذر حفظ المنتج ""%1"" مع الموقع %2 للفئة %3",module,Magento_Catalog
-"The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
+"The category doesn't contain the specified product.","الفئة لا تحوي المنتج المحدد.",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","تعذر حفظ المنتج ""%product"" مع الموقف %position للفئة %category",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","لا تسمح عملية لنقل فئة أصل إلى أي من فئة الأطفال",module,Magento_Catalog
 "Could not move category","تعذر نقل الفئة",module,Magento_Catalog
@@ -1771,7 +1771,7 @@
 "Center","الوسط",module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","غير ممتد %1 \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Something went wrong while saving the file(s).","حدث خطأ أثناء حفظ الملفات.",module,Magento_Catalog
-"File validation failed.","التحقق من صحة الملف فشل.",module,Magento_Catalog
+"File validation failed.","فشل التحقق من صحة الملف.",module,Magento_Catalog
 "File can not be saved to the destination folder.","لا يمكن حفظ الملف إلى المجلد الوجهة.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","نوع الفهرسة EAV غير معروف ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","لا يمكن إعادة إنشاء الفهرس لمنتج غير معروف.",module,Magento_Catalog
@@ -1783,7 +1783,7 @@
 "The attribute model is not defined.","لم يتم تعريف نموذج السمة.",module,Magento_Catalog
 "Category","القسم",module,Magento_Catalog
 "%1 - %2","%1-%2",module,Magento_Catalog
-"The %1 value wasn't found in the algorithms.","The %1 value wasn't found in the algorithms.",module,Magento_Catalog
+"The %1 value wasn't found in the algorithms.","لم يعثر على قيمة %1 في الخوارزميات.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","لا ممتد %1 \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","غير ممتد %1 \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","جب أن يكون عامل التصفية عامل او اختيار. الرجاء تعيين عامل التصفية الصحيح.",module,Magento_Catalog
@@ -1853,7 +1853,7 @@
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","سمة غير مقبولة التكلفة = %cost. معرف الصف: وحدة التخزين = %SKU، معرف المتجر: %storeId.",module,Magento_Catalog
 "Could not save Prices.","تعذر حفظ الأسعار.",module,Magento_Catalog
 "Could not delete Prices","تعذر حذف الأسعار",module,Magento_Catalog
-"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","المنتج المطلوب غير موجود. تحقق من المنتج ثم حاول مرة أخرى. معرف الصف: SKU=%SKU, معرف المتجر:%storeId, السعر من:%priceFrom, السعر إلى:%priceTo.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","لم يتم العثور على المتجر المطلوب. معرف الصف: وحدة التخزين = %SKU، معرف المتجر: %storeId، السعر من: %priceFrom، السعر إلى: %priceTo.",module,Magento_Catalog
 "Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","سمة غير مقبولة %label = %priceTo. معرف صف: وحدة التخزين = %SKU، معرف مخزن: %storeId، السعر من: %priceFrom، السعر إلى: %priceTo.",module,Magento_Catalog
 "Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","سمة سعر غير مقبولة = %price. معرف الصف: وحدة التخزين = %SKU، معرف المخزن: %storeId، السعر من: %priceFrom، السعر إلى: %priceTo.",module,Magento_Catalog
@@ -1869,7 +1869,7 @@
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","لا يوجد مثل هذا الكيان مع مجموعة العملاء = %customerGroup. معرف الصف: وحدة التخزين= %SKU، معرف الموقع: %websiteId، مجموعة العملاء: %customerGroup، الكمية: %qty.",module,Magento_Catalog
 "Tier price is unavailable for this product.","سعر الفئة غير موجود لهذا المنتج.",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","المنتج لا ينتمي لمجموعة سعرية برقم = '%1' و الموقع = %2 والكمية = %3",module,Magento_Catalog
-"The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
+"The tier_price data is invalid. Verify the data and try again.","بيانات tier_price غير مقبولة. تحقق من البيانات وحاول مرة أخرى.",module,Magento_Catalog
 "The group price couldn't be saved.","The group price couldn't be saved.",module,Magento_Catalog
 "The data was invalid. Verify the data and try again.","The data was invalid. Verify the data and try again.",module,Magento_Catalog
 "Values in the %1 attributes are invalid. Verify the values and try again.","Values in the %1 attributes are invalid. Verify the values and try again.",module,Magento_Catalog
