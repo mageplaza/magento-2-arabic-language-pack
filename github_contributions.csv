@@ -1,1 +1,3 @@
-Mageplaza,Mageplaza,module,Magento_AdminGws
+"The item was added to shopping cart %1, store view %2.","store view %2 , %1 تمت إضافة هذا المنتج الى سلة الشراء.",module,Magento_Reminder
+"You added %1 item(s) to your shopping cart.","تمت إضافةالمنتج %1 الى سلة شرائك .",module,Magento_RequisitionList
+"The item was added to wish list %1, store view %2.","متجر %2, %1 المنتج تمت زيادته الى القائمة المفضلة.",module,Magento_Reminder
