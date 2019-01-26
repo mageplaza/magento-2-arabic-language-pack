@@ -89,8 +89,11 @@ Unzip the Arabic language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/ar_sa
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-arabic-language-pack` to `ar_sa`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Arabic pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `ar_SA.zip` into `app/i18n/mageplaza/ar_SA/ar_SA.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ar_sa/ar_SA.csv`
+
+See this screenshot
+
+![Arabic pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
