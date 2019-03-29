@@ -3,7 +3,7 @@ None,"لا شئ",module,Magento_AdminGws
 "Allowed Scopes","النطاقات المسموح بها",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","تحتاج إلى مزيد من الصلاحيات لتطبيق بعض تحديثات القاعدة.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","يحتاج هذا الكيان يجب تعيينه إلى طريقة عرض متجر. تحقق من تعيين الكيان وحاول مرة أخرى.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
 "More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
@@ -14,7 +14,7 @@ None,"لا شئ",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","تحتاج لمزيد من الصلاحيات للوصول إلى الموقع ""%1"".",module,Magento_AdminGws
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","يلزم مزيد من الصلاحيات لحفظ هذا الإعداد.",module,Magento_AdminGws
 "Role Scopes","نطاقات الدور",module,Magento_AdminGws
 Custom,مخصص,module,Magento_AdminGws
 "Read Details","قراءة التفاصيل",module,Magento_AdminNotification
