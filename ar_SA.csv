@@ -14495,7 +14495,7 @@ Summary,ملخص,theme,frontend/Magento/blank
 Menu,القائمة,theme,frontend/Magento/blank
 Account,الحساب,theme,frontend/Magento/blank
 Settings,الإعدادات,theme,frontend/Magento/blank
-"Now Shopping by","تسوق الآن من",theme,frontend/Magento/luma
+"Now Shopping by","تسوق الآن حسب",theme,frontend/Magento/luma
 Previous,السابق,theme,frontend/Magento/luma
 Remove,ازالة,theme,frontend/Magento/luma
 "Remove This Item","حذف هذا العنصر",theme,frontend/Magento/luma
@@ -14549,6 +14549,6 @@ Footer,"ذيل الصفحة",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","تأكيد الشحن الخاص بك أدناه. أشكركم مرة أخرى على عملك.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","شحنتك #%shipment_id لطلب رقم #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","تحديث للشحنة الخاصة بك %store_name",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account",حسابي,theme,frontend/Magento/luma
 "Address Book","سجل العناوين",theme,frontend/Magento/luma
 "Account Information","معلومات الحساب",theme,frontend/Magento/luma
