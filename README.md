@@ -117,11 +117,13 @@ To download and install Arabic pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ar_sa/ar_SA.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ar_sa/`
 
-See this screenshot
+See this screenshot:
 
 ![Arabic pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ar_sa**
 
 #### Step 2: Flush cache
 
