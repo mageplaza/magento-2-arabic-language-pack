@@ -19,7 +19,7 @@
 "Custom","مخصص",module,Magento_AdminGws
 "You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","ليس لديك الصلاحيات اللازمة لحفظ هذا العنصر في نطاق المتجر الحالي. رجاء، قم بالتبديل إلى المتجر المسموح لك بالتعديل عليه",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","تحتاج إلى مزيد من الصلاحيات لحذف العنصر ""%1"".",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","هذا الكيان يحتاج الى ربط مع واجهة المتجر، يرجى التحقق من ربطه ثم المحاولة مره اخرى.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","لا يمكن إتمام الطلبات إلا في متجر نشط. تحقق من المتجر وحاول مرة أخرى.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","يحتاج المنتج لتعينه مع وجهة المتجر. فعل التعين ثم حاول مره اخرى.",module,Magento_AdminGws
 "More permissions are needed to save this item.","يلزم مزيد من الصلاحيات لحفظ هذا العنصر.",module,Magento_AdminGws
@@ -28,8 +28,8 @@
 "At least one website or store group needs to be selected. Select and try again.","يحتاج علي الأقل تحديد موقع واحد او مجموعة متاجر. قم بتحديد ثم حاول مره اخرى.",module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","يحتاج لمزيد من الصلاحيات حتى يتم تعين جميع النطاقات الي الدور.",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" من هوية الموقع غير صحيحة. تحقق من هوية الموقع و حاول مرة اخرى.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","الرقم التعريفي ""%1"" للمتجر غير صحيح، يجب التاكد من الرقم التعريفي للمتجر ثم المحاولة لاحقا.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","تحتاج للمزيد من الصلاحيات لحفظ هذا الاعداد.",module,Magento_AdminGws
 "Read Details","قراءة التفاصيل",module,Magento_AdminNotification
 "Mark as Read","تعيين كمقروء",module,Magento_AdminNotification
 "Are you sure?","هل أنت متأكد؟",module,Magento_AdminNotification
@@ -1651,16 +1651,16 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Thumbnail","صورة مصغره",module,Magento_Bundle
 "Type","النوع",module,Magento_Bundle
 "Special Price","سعر خاص",module,Magento_Bundle
-"This is implemented for bundle products only.","This is implemented for bundle products only.",module,Magento_Bundle
+"This is implemented for bundle products only.","تنفذ فقط لحزمة المنتج.",module,Magento_Bundle
 "The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
-"The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
+"The bundle product can't contain another composite product.","حزمة المنتج لا يمكن أن تحتوي على منتج مركب آخر.",module,Magento_Bundle
 "The product link needs an ID field entered. Enter and try again.","The product link needs an ID field entered. Enter and try again.",module,Magento_Bundle
-"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.",module,Magento_Bundle
-"The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again.",module,Magento_Bundle
-"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_Bundle
+"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","لم يتم العثور اتفاقية إتمام الطلب بالمعرف ""%1"" المحدد. تحقق من المعرف وحاول مرة أخرى.",module,Magento_Bundle
+"The bundle product doesn't exist. Review your request and try again.","لا توجد حزمة المنتج. استعراض الطلب الخاص بك وحاول مرة أخرى.",module,Magento_Bundle
+"The option that was requested doesn't exist. Verify the entity and try again.","الخيار المطلوب غير موجود. التحقق من الكيان وحاول مرة أخرى.",module,Magento_Bundle
 "The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Bundle
-"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","سمة ال""%f"" مطلوبة. أدخل قيمتها ثم حاول مرة أخرى.",module,Magento_Bundle
+"The option with ""%1"" ID can't be deleted.","لا يمكن حذف هذا الخيار مع معرف ""%1"".",module,Magento_Bundle
 """option_id"" and ""parent_id"" values should be specified","يجب تخصيص قيم ""option_id"" و ""parent_id""",module,Magento_BundleGraphQl
 """sku"" value should be specified","يجب تخصيص قيمة ""sku""",module,Magento_BundleGraphQl
 "Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
