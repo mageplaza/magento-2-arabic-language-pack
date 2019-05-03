@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Arabic Language Pack](https://www.mageplaza.com/magento-2-arabic-language-pack.html)
 
+![Mageplaza Arabic language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
