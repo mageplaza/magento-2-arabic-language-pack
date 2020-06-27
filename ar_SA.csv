@@ -138,7 +138,7 @@
 "You added %1 to your shopping cart.","تمت إضافة %1 إلى عربة التسوق.",module,Magento_AdvancedCheckout
 "You cannot add a product.","لا يمكنك إضافة منتج.",module,Magento_AdvancedCheckout
 "Order by SKU","الطلب بواسطة رمز ال SKU",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","لم يتم إيجاد ال SKU داخل القسم.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","متوفر بالمخزن: لا.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","الكمية التي تريدها غير متوفرة.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","لا يمكنك إضافة هذه الكمية إلى عربة التسوق الخاصة بك.",module,Magento_AdvancedCheckout
@@ -219,16 +219,16 @@
 "Order by SKU Template","الطلب بواسطة قالب رمز المنتج",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","لم يتم العثور على رمز ال SKU في دليل المنتجات.",module,Magento_AdvancedCheckout
 "This file needs to be in .csv format.","هذا الملف يجب أن يكون بتنسيق csv.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","لا يمكن العثور على هذا العميل. تحقق من العميل وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","لا يمكن العثور على هذا المتجر. تحقق من المتجر وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","حدث خطأ. لمزيد من التفاصيل، راجع سجل الأخطاء.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","لا يمكن إتمام الطلبات إلا في متجر نشط. تحقق من المتجر وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","الصنف المطلوب يحتاج إلى أن يتم تحميله. قم بتحميل الصنف وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","يجب أن يتم استلام معرّف عنصر السعر. عيِّن المعرّف وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","يجب أن يتم استلام عنصر السعر. عيِّن العنصر وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","يجب أن يتم استلام معرّف عنصر السعر. عيِّن المعرّف وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","يجب أن يتم استلام عنصر قائمة الرغبات. عيِّن العنصر وحاول مرة أخرى.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","الملف معطوب ولا يمكن استخدامه.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","الرجاء تصحيح البيانات التي تم إرسالها.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","نموذج الكيان '%1' غير موجود",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","قيمة الأسم المدخلة يجب أن تكون مماثلة لـ ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
@@ -331,25 +331,25 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pharma and Medical Devices","الأدوات الطبية والصيدلية",module,Magento_Analytics
 "Technology B2B","التقنية (مورد لمورد)",module,Magento_Analytics
 "Other","أخرى",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","هذا التنسيق للزمن غير مدعوم رجاءا ادخل قيمة مدعومة وحاول مجددا.",module,Magento_Analytics
+"Please select an industry.","رجاءا حدد مجال التجارة.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","البيانات غير صالحة. ادخل بيانات كنص او بيانات قابلة لان تتحول لنص و حاول مرة اخرى.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","البيانات غير صالحة. أدخل البيانات كنص وحاول مرة اخرى.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","البيانات غير صالحة. أستخدم طريقة تشفير صالحة و حاول مرة اخرى.",module,Magento_Analytics
+"Enter the encryption key and try again.","أدخل مفتاح التشفير وحاول مرة اخرى.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","المصدر ""%1"" غير موجود.",module,Magento_Analytics
+"Retry Synchronization","أعد المزامنة",module,Magento_Analytics
 "Back","رجوع",module,Magento_AsynchronousOperations
 "Done","انتهى",module,Magento_AsynchronousOperations
 "Retry","إعادة المحاولة",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'تفاصيل العملية - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 صنف (أصناف) على جدول التحديث.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","سجل الإجراءات",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","حجم التشفير %bulkUuid غير موجود",module,Magento_AsynchronousOperations
+"Topic %1","الموضوع %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","حدث خطأ أثناء معالجة الطلب.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","حدث خطأ أثناء معالجة العنصر %key من البيانات المدخلة",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","آسف، حدث خطأ أثناء تحديث أسعار المنتج. الرجاء مراجعة السجل للحصول على التفاصيل.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","يجري حاليا تحديث %1 صنف (أصناف).",module,Magento_AsynchronousOperations
 "Task ""%1"": ","المهمة ""%1"": ",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 صنف (أصناف) على جدول التحديث.",module,Magento_AsynchronousOperations
@@ -366,7 +366,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Action Log","سجل الإجراءات",module,Magento_AsynchronousOperations
 "Report","تقرير",module,Magento_AsynchronousOperations
 "Bulk Actions","مجموعة إجراءات",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Action Logs","سجل الإجراءات",module,Magento_AsynchronousOperations
 "Days Saved in Log","أيام محفوظة في سجل",module,Magento_AsynchronousOperations
 "Description of Operation","وصف العملية",module,Magento_AsynchronousOperations
 "Summary","خلاصة",module,Magento_AsynchronousOperations
@@ -381,9 +381,9 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Dismiss All Completed Tasks","إستبعاد جميع المهام المكتملة",module,Magento_AsynchronousOperations
 "Action Details - #","تفاصيل العملية - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","عدد السجلات التي تأثرت",module,Magento_AsynchronousOperations
-"We can't find the role for the user you wanted.","لا يمكننا الوصول للمستخدم الذي طلبته",module,Magento_Authorization
+"We can't find the role for the user you wanted.","لم نتمكن من العثور على دور المستخدم الذي طلبته.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","حدث خطأ أثناء تجميع قائمة من الموارد المسموح بها. يمكنك العثور على مزيد من المعلومات في سجل الاستثناءات.",module,Magento_Authorization
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","لا يمكن العثور على الدور المطلوب. فضلا تأكد من الدور و حاول مرة أخرى.",module,Magento_Authorization
 "You created the order.","قمت بإنشاء الطلب.",module,Magento_Authorizenet
 "Order saving error: %1","أمر حفظ الخطأ: %1",module,Magento_Authorizenet
 "Please choose a payment method.","الرجاء اختيار طريقة الدفع.",module,Magento_Authorizenet
@@ -454,46 +454,46 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Maximum Order Total","إجمالي الحد الأعلى للطلب",module,Magento_Authorizenet
 "Sort Order","الترتيب",module,Magento_Authorizenet
 "Cannot place order.","لا يمكن وضع أمر شراء.",module,Magento_Authorizenet
-"'Gateway error: ' .","'Gateway error: ' .",module,Magento_Authorizenet
+"'Gateway error: ' .","'خطأ في البوابة: %1: ' .",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","غير قادر على انشاء الطلب. من فضلك، حاول مرة أخرى لاحقاً.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
-"Signature Key","Signature Key",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","خطأ في خادم الموقع أدي لإيقاف إتمام الطلب. الرجاء محاولة الطلب مرة أخرى.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","تفاصيل المعاملة غير متوفرة. الرجاء معاودة المحاولة في وقت لاحق.",module,Magento_Authorizenet
+"Authorize.Net Direct Post (Deprecated)","Authorize.Net مشاركة مباشرة (Deprecated)",module,Magento_Authorizenet
+"Signature Key","مفتاح التوقيع",module,Magento_Authorizenet
 "There was an error while trying to process the request.","حدث خطأ اثناء معالجة الطلب.",module,Magento_AuthorizenetAcceptjs
-"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","لا يمكن رد هذه المعاملة بحالتها الحالية.",module,Magento_AuthorizenetAcceptjs
 "Something went wrong in the payment gateway.","حدث خطأ في بوابة الدفع.",module,Magento_AuthorizenetAcceptjs
-"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","لا يمكن التحقق من صحة استجابة البوابة.",module,Magento_AuthorizenetAcceptjs
 "Authorize Only","المصرح فقط",module,Magento_AuthorizenetAcceptjs
 "Authorize and Capture","التحقق و القبض",module,Magento_AuthorizenetAcceptjs
 "Credit Card Type","نوع بطاقة الائتمان",module,Magento_AuthorizenetAcceptjs
 "Credit Card Number","رقم بطاقة الائتمان",module,Magento_AuthorizenetAcceptjs
 "Expiration Date","تاريخ انتهاء الصلاحية",module,Magento_AuthorizenetAcceptjs
 "Card Verification Number","رقم التحقق من البطاقة",module,Magento_AuthorizenetAcceptjs
-"Authorize.Net","Authorize.Net",module,Magento_AuthorizenetAcceptjs
+"Authorize.Net","Authorize.net",module,Magento_AuthorizenetAcceptjs
 "Enabled","تفعيل",module,Magento_AuthorizenetAcceptjs
-"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","الإعدادات الأساسية Authorize.Net",module,Magento_AuthorizenetAcceptjs
 "Title","العنوان",module,Magento_AuthorizenetAcceptjs
 "Environment","البيئة",module,Magento_AuthorizenetAcceptjs
 "Payment Action","فعل الدفع",module,Magento_AuthorizenetAcceptjs
 "API Login ID","API اسم المستخدم",module,Magento_AuthorizenetAcceptjs
 "Transaction Key","مفتاح عملية الدفع",module,Magento_AuthorizenetAcceptjs
-"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
-"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
-"Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
-"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","مفتاح العميل العام",module,Magento_AuthorizenetAcceptjs
+"Signature Key","مفتاح التوقيع",module,Magento_AuthorizenetAcceptjs
+"Merchant MD5 (deprecated)","التاجر MD5 (مهمل)",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","الإعدادات الأساسية Authorize.Net",module,Magento_AuthorizenetAcceptjs
 "Accepted Currency","العملات المقبولة",module,Magento_AuthorizenetAcceptjs
 "Debug","نقح",module,Magento_AuthorizenetAcceptjs
 "Email Customer","البريد الإلكتروني للعميل",module,Magento_AuthorizenetAcceptjs
-"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","تمكين حقل التحقق من بطاقة الائتمان",module,Magento_AuthorizenetAcceptjs
 "Credit Card Types","أنواع بطاقة الائتمان",module,Magento_AuthorizenetAcceptjs
 "Payment from Applicable Countries","الدفع من البلدان المطبقة",module,Magento_AuthorizenetAcceptjs
 "Payment from Specific Countries","الدفع من بلدان معينة",module,Magento_AuthorizenetAcceptjs
 "Minimum Order Total","إجمالي الحد الأدنى للطلب",module,Magento_AuthorizenetAcceptjs
 "Maximum Order Total","إجمالي الحد الأعلى للطلب",module,Magento_AuthorizenetAcceptjs
 "Sort Order","الترتيب",module,Magento_AuthorizenetAcceptjs
-"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
-"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","طلب غير صالح للبوابة.",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","بيانات اعتماد البوابة غير صالحة.",module,Magento_AuthorizenetAcceptjs
 "Transaction has been declined. Please try again later.","تم رفض المعاملة. الرجاء المحاولة مرة أخرى لاحقاً.",module,Magento_AuthorizenetAcceptjs
 "Close","إغلاق",module,Magento_B2b
 "options","الخيارات",module,Magento_B2b
@@ -517,7 +517,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Most Viewed Products","المنتجات الأكثر مشاهدة",module,Magento_Backend
 "New Customers","عضو جديد",module,Magento_Backend
 "Customers","العملاء",module,Magento_Backend
-"Customer","زبون",module,Magento_Backend
+"Customer","العميل",module,Magento_Backend
 "Guest","زائر",module,Magento_Backend
 "Items","المنتجات",module,Magento_Backend
 "Total","إجمالي",module,Magento_Backend
@@ -633,7 +633,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Date selector","اختيار التاريخ",module,Magento_Backend
 "[ deleted ]","[محذوف]",module,Magento_Backend
 "Select All","اختيار الكل",module,Magento_Backend
-" [deleted]"," [deleted]",module,Magento_Backend
+" [deleted]"," [محذوف]",module,Magento_Backend
 "We couldn't find any records.","لم يتم العثور على أي سجلات.",module,Magento_Backend
 "Add New","إضافة جديد",module,Magento_Backend
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
@@ -819,7 +819,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Elements","عناصر",module,Magento_Backend
 "Design","تصميم",module,Magento_Backend
 "Schedule","الجدول الزمني",module,Magento_Backend
-"Content translation","Content translation",module,Magento_Backend
+"Content translation","ترجمة المحتوى",module,Magento_Backend
 "Settings","الإعدادات",module,Magento_Backend
 "Attributes","الصفات",module,Magento_Backend
 "Other Settings","إعدادات أخرى",module,Magento_Backend
@@ -828,13 +828,13 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Connect Manager","إدارة الاتصال",module,Magento_Backend
 "Package Extensions","مجموعة التحويلات",module,Magento_Backend
 "Tools","ادوات",module,Magento_Backend
-"Clean Cache Actions","Clean Cache Actions",module,Magento_Backend
-"Cache Types Management","Cache Types Management",module,Magento_Backend
-"Toggle Cache Type","Toggle Cache Type",module,Magento_Backend
-"Refresh Cache Type","Refresh Cache Type",module,Magento_Backend
-"Catalog Images Cache","Catalog Images Cache",module,Magento_Backend
-"Flush Js/Css","Flush Js/Css",module,Magento_Backend
-"Flush Static Files","Flush Static Files",module,Magento_Backend
+"Clean Cache Actions","تنظيف سجل الإجراءات",module,Magento_Backend
+"Cache Types Management","إدارة الملفات المخزنة موقتا",module,Magento_Backend
+"Toggle Cache Type","تبديل نوع ذاكرة التخزين",module,Magento_Backend
+"Refresh Cache Type","تحديث ذاكرة التخزين",module,Magento_Backend
+"Catalog Images Cache","صور الكتالوج ذاكرة التخزين المؤقت",module,Magento_Backend
+"Flush Js/Css","تنشيط CSS/JS",module,Magento_Backend
+"Flush Static Files","تنشيط الملفات الساكنة (الثابتة)",module,Magento_Backend
 "Web Setup Wizard","معالج إعداد الشبكة",module,Magento_Backend
 "Currency","العملة",module,Magento_Backend
 "Communications","الاتصالات",module,Magento_Backend
@@ -1003,7 +1003,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Recovery Link Expiration Period (days)","فترة انتهاء صلاحية رابط الاسترداد (الأيام)",module,Magento_Backend
 "Values less than 60 are ignored.","تجاهل القيم الاقل من 60.",module,Magento_Backend
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","&copy; Magento Commerce Inc %1 جميع الحقوق محفوظة.",module,Magento_Backend
-"Add New User Agent Rule","Add New User Agent Rule",module,Magento_Backend
+"Add New User Agent Rule","إضافة صلاحية للمستخدم الجديد",module,Magento_Backend
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record",module,Magento_Backend
 "Search String","البحث النصي",module,Magento_Backend
 "Page not found.","لم يتم العثور على الصفحة.",module,Magento_Backend
@@ -1011,12 +1011,12 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "When the adapter was changed, please flush Catalog Images Cache.","When the adapter was changed, please flush Catalog Images Cache.",module,Magento_Backend
 "For Windows server only.","ل Windows server فقط.",module,Magento_Backend
 "Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
+"Maximum Width","أقصى عرض",module,Magento_Backend
 "Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
+"Maximum Height","أقصى إرتفاع",module,Magento_Backend
 "Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
-"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. redirect from http://example.com/store/ to http://www.example.com/store/",module,Magento_Backend
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","مثال: إعادة التوجيه من http://example.com/store/ إلى http://www.example.com/store/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","السماح لأي من الحقول عناوين Url مؤهل بشكل كامل أن ينتهي '/' (خفض) مثل http://example.com/magento/",module,Magento_Backend
 "May start with {{unsecure_base_url}} placeholder.","May start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","السماح لأي من الحقول عناوين Url مؤهل بشكل كامل أن ينتهي '/' (خفض) مثل http://example.com/magento/",module,Magento_Backend
@@ -1121,11 +1121,11 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Type","النوع",module,Magento_Backup
 "Download","تحميل",module,Magento_Backup
 "Action","إجراء",module,Magento_Backup
-"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
-"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
-"Disabled by default for security reasons","Disabled by default for security reasons",module,Magento_Backup
+"Backup functionality is disabled","تم تعطيل النسخ الاحتياطي",module,Magento_Backup
+"Backup Settings","إعدادات النسخ الاحتياطي",module,Magento_Backup
+"Enable Backup","تفعيل النسخ الاحتياطي",module,Magento_Backup
+"Scheduled Backup Type","نسخ احتياطي مُجدول",module,Magento_Backup
+"Disabled by default for security reasons","معطل لأسباب امنية",module,Magento_Backup
 "Banners","اللافتات",module,Magento_Banner
 "Add Banner","إضافة جزء إعلاني",module,Magento_Banner
 "Save Banner","حفظ الإعلان",module,Magento_Banner
@@ -1199,15 +1199,15 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Specify Banners","حدد لافتة",module,Magento_Banner
 "Banner Block Template","قالب كتلة اللافتة",module,Magento_Banner
 "Banner Inline Template","قالب الشعار المضمن",module,Magento_Banner
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","الكتل ديناميكية",module,Magento_Banner
+"Add Dynamic Block","الكتل الديناميكية",module,Magento_Banner
+"Save Dynamic Block","حفظ كتلة ديناميكية",module,Magento_Banner
+"Delete Dynamic Block","حذف كتلة ديناميكية",module,Magento_Banner
+"New Dynamic Block","كتلة ديناميكية جديدة",module,Magento_Banner
 "Are you sure you want to do this?","هل أنت متأكد أنك تريد فعل ذلك؟",module,Magento_Banner
 "Reset","اعادة ضبط",module,Magento_Banner
 "Save","حفظ",module,Magento_Banner
-"Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
+"Dynamic Block Default Content for All Store Views","شعار المحتوى الافتراضي لجميع واجهات المتاجر",module,Magento_Banner
 "Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
 "Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
 "Any Dynamic Block Type","Any Dynamic Block Type",module,Magento_Banner
@@ -1652,25 +1652,25 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Type","النوع",module,Magento_Bundle
 "Special Price","سعر خاص",module,Magento_Bundle
 "This is implemented for bundle products only.","تنفذ فقط لحزمة المنتج.",module,Magento_Bundle
-"The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
+"The product with the ""%1"" SKU isn't a bundle product.","المنتج الذي يحتوي ""%1"" SKU ليست حزمة منتج.",module,Magento_Bundle
 "The bundle product can't contain another composite product.","حزمة المنتج لا يمكن أن تحتوي على منتج مركب آخر.",module,Magento_Bundle
-"The product link needs an ID field entered. Enter and try again.","The product link needs an ID field entered. Enter and try again.",module,Magento_Bundle
+"The product link needs an ID field entered. Enter and try again.","رابط المنتج يحتاج الى حقل معرف. قم بإدخاله و أعد المحاولة.",module,Magento_Bundle
 "The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","لم يتم العثور اتفاقية إتمام الطلب بالمعرف ""%1"" المحدد. تحقق من المعرف وحاول مرة أخرى.",module,Magento_Bundle
 "The bundle product doesn't exist. Review your request and try again.","لا توجد حزمة المنتج. استعراض الطلب الخاص بك وحاول مرة أخرى.",module,Magento_Bundle
 "The option that was requested doesn't exist. Verify the entity and try again.","الخيار المطلوب غير موجود. التحقق من الكيان وحاول مرة أخرى.",module,Magento_Bundle
-"The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
+"The option couldn't be saved.","تعذر حفظ الإعداد.",module,Magento_Bundle
 """%fieldName"" is required. Enter and try again.","سمة ال""%f"" مطلوبة. أدخل قيمتها ثم حاول مرة أخرى.",module,Magento_Bundle
 "The option with ""%1"" ID can't be deleted.","لا يمكن حذف هذا الخيار مع معرف ""%1"".",module,Magento_Bundle
 """option_id"" and ""parent_id"" values should be specified","يجب تخصيص قيم ""option_id"" و ""parent_id""",module,Magento_BundleGraphQl
 """sku"" value should be specified","يجب تخصيص قيمة ""sku""",module,Magento_BundleGraphQl
-"Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
+"Unique constraint violation found","تم العثور على انتهاك لقيد فريد",module,Magento_BundleStaging
 "Cancel","إلغاء",module,Magento_BundleStaging
 "Add Selected Products","إضافة منتجات مختارة",module,Magento_BundleStaging
 "Add Products to Option","إضافة المنتجات إلى الخيار",module,Magento_BundleStaging
 "Select...","اختر...",module,Magento_BundleStaging
-"Status","الحاله",module,Magento_BundleStaging
-"ID","التعريف",module,Magento_BundleStaging
-"Thumbnail","صورة مصغره",module,Magento_BundleStaging
+"Status","الحالة",module,Magento_BundleStaging
+"ID","المعرِّف",module,Magento_BundleStaging
+"Thumbnail","صورة مصغرة",module,Magento_BundleStaging
 "Name","اسم",module,Magento_BundleStaging
 "Type","النوع",module,Magento_BundleStaging
 "SKU","رمز المنتج",module,Magento_BundleStaging
@@ -1774,7 +1774,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Yes","نعم",module,Magento_Catalog
 "Data Type for Saving in Database","نوع البيان للحفظ في قاعدة البيانات",module,Magento_Catalog
 "Text","نص",module,Magento_Catalog
-"Varchar","Varchar",module,Magento_Catalog
+"Varchar","حقل الأحرف المتغير",module,Magento_Catalog
 "Static","ساكنة",module,Magento_Catalog
 "Datetime","وقت التاريخ",module,Magento_Catalog
 "Decimal","عشري",module,Magento_Catalog
@@ -1965,7 +1965,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Static block only","تجميد المساحة فقط",module,Magento_Catalog
 "Static block and products","تجميد المساحة والمنتجات",module,Magento_Catalog
 "Please select a static block.","الرجاء تحديد كتلة ثابتة.",module,Magento_Catalog
-"frontend_label","frontend_label",module,Magento_Catalog
+"frontend_label","وسم الواجهة الامامية",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","تعذر حفظ المنتج ""%1"" مع الموقع %2 للفئة %3",module,Magento_Catalog
 "Category does not contain specified product","الديلي لا يحتوي على فئة المنتج المحدد",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","تعذر حفظ المنتج ""%product"" مع الموقف %position للفئة %category",module,Magento_Catalog
@@ -2123,7 +2123,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Requested product doesn't exist","المنتج المطلوب غير موجود",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","المنتج بالمعرف SKU رقم ""%1"" غير موجود",module,Magento_Catalog
 "Invalid product data: %1","بيانات المنتج غير صحيحة: %1",module,Magento_Catalog
-"Database connection error","Database connection error",module,Magento_Catalog
+"Database connection error","خطأ في الاتصال بقاعدة البيانات",module,Magento_Catalog
 "Database deadlock found when trying to get lock","فشل في قاعدة البيانات عند محاولة الحصول على القفل",module,Magento_Catalog
 "Database lock wait timeout exceeded","تجاوز وقت انتظار الحصول على قفل قاعدة البيانات",module,Magento_Catalog
 "Unable to remove product %1","غير قادر على إزالة المنتج %1",module,Magento_Catalog
@@ -2143,7 +2143,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "%1 doesn't extend \Magento\Framework\Filter\Template","غير ممتد %1 \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as","منخفضة",module,Magento_Catalog
 "test","اختبار",module,Magento_Catalog
-"Some text is here.","Some text is here.",module,Magento_Catalog
+"Some text is here.","بعض النص هنا.",module,Magento_Catalog
 "Some exception","بعض الاستثناء",module,Magento_Catalog
 "Could not get extension attributes","لا يمكن الحصول على سمات الملحق",module,Magento_Catalog
 "message","رسالة",module,Magento_Catalog
@@ -2542,14 +2542,14 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Watermark","علامة مائية",module,Magento_Catalog
 "Watermark Position","مكان العلامة المائية",module,Magento_Catalog
 "none","لا شيء",module,Magento_Catalog
-"File validation failed.","File validation failed.",module,Magento_Catalog
+"File validation failed.","فشل التحقق من صحة الملف.",module,Magento_Catalog
 "text","نص",module,Magento_Catalog
 "Tier Price","السعر الأساسي",module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","إذا كان لدى موقع الويب الخاص بك من ماجنتو طرق عرض متعددة، فإنه يمكنك تعيين طريقة عرض محددة.",module,Magento_Catalog
 "Sort Products By","رتب المنتجات حسب",module,Magento_Catalog
 "Default Product Sorting","الترتيب الإفتراضي للمنتجعات",module,Magento_Catalog
 "Use Parent Category Settings","استخدام إعدادات أصل الفئة",module,Magento_Catalog
-"Page not found","Page not found",module,Magento_Catalog
+"Page not found","لم يتم العثور على الصفحة",module,Magento_Catalog
 "Full file path is expected.","Full file path is expected.",module,Magento_Catalog
 "from","من",module,Magento_Catalog
 "to","الى",module,Magento_Catalog
@@ -2559,15 +2559,15 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
 "Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
-"remaining","remaining",module,Magento_Catalog
-"too many","too many",module,Magento_Catalog
-"Sending attribute values as package.","Sending attribute values as package.",module,Magento_Catalog
+"remaining","المتبقي",module,Magento_Catalog
+"too many","كثير جدا",module,Magento_Catalog
+"Sending attribute values as package.","إرسال قيم الخصال كحزمة.",module,Magento_Catalog
 "This value does not follow the specified format (for example, 200X300).","هذه القيمة لا تتبع التنسيق المحدد (على سبيل المثال، 200 × 300).",module,Magento_Catalog
 "Applies to category pages","Applies to category pages",module,Magento_Catalog
 "Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
 "Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
 "Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
-"Quality","Quality",module,Magento_Catalog
+"Quality","الجودة",module,Magento_Catalog
 "Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
 "Cost","التكلفة",module,Magento_Catalog
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
@@ -2578,18 +2578,18 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
 "The %1 value wasn't found in the algorithms.","The %1 value wasn't found in the algorithms.",module,Magento_Catalog
 "The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
-"The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
+"The product wasn't registered.","لم يتم تسجيل المنتج.",module,Magento_Catalog
+"The store wasn't registered. Verify the store and try again.","لا يم يتم تسجيل هذا المتجر. تحقق من المتجر وحاول مرة أخرى.",module,Magento_Catalog
 "The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
-"The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again.",module,Magento_Catalog
-"The product can't be saved.","The product can't be saved.",module,Magento_Catalog
+"The image content is invalid. Verify the content and try again.","محتويات الصورة غير صحيحة. تأكد من المحتويات ثم حاول مرة أخرى.",module,Magento_Catalog
+"The product can't be saved.","لا يمكن حفظ المنتج.",module,Magento_Catalog
 "The new media gallery entry failed to save.","The new media gallery entry failed to save.",module,Magento_Catalog
 "No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
-"The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again.",module,Magento_Catalog
+"The product doesn't exist. Verify and try again.","المنتج غير موجود. تأكد ثم حاول مرة أخرى.",module,Magento_Catalog
 "The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist.","The image doesn't exist.",module,Magento_Catalog
+"The image doesn't exist.","الصورة غير موجودة.",module,Magento_Catalog
 "The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
 "The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
 "The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_Catalog
@@ -2717,7 +2717,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Edit","تعديل",module,Magento_CatalogEvent
 "Edit Event...","Edit Event...",module,Magento_CatalogEvent
 "Add Event...","Add Event...",module,Magento_CatalogEvent
-"Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
+"Concrete type for %1 not implemented","نوع البناء لـ %1 غير مطبق",module,Magento_CatalogGraphQl
 "Missing key %1 in product data","المفتاح %1 مفقود في بيانات المنتج",module,Magento_CatalogGraphQl
 """model"" value should be specified","يجب تحديد قيمة ""الموديل""",module,Magento_CatalogGraphQl
 """path"" value should be specified","يجب تخصيص قيمة ""path""",module,Magento_CatalogGraphQl
@@ -3556,7 +3556,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We can't upload the file right now.","لا يمكننا رفع الملف الآن.",module,Magento_Cms
 "We can't delete root directory %1 right now.","لا يمكننا حذف جذر الدليل %1 الآن.",module,Magento_Cms
 "Privacy and Cookie Policy","سياسة الخصوصية وملفات تعريف الارتباط",module,Magento_Cms
-"Error message","Error message",module,Magento_Cms
+"Error message","رسالة خطأ",module,Magento_Cms
 "LocalizedException","إستثناء المحليات",module,Magento_Cms
 "RuntimeException","إستثناء وقت التشغيل",module,Magento_Cms
 "Exception","استثناء",module,Magento_Cms
@@ -3564,7 +3564,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit","تعديل",module,Magento_Cms
 "Delete","احذف",module,Magento_Cms
 "Delete %1","حذف %1",module,Magento_Cms
-"Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?",module,Magento_Cms
+"Are you sure you want to delete a %1 record?","هل أنت متأكد انك تريد حذف سجل $%1 ؟",module,Magento_Cms
 "All Store Views","واجهه جميع المواقع",module,Magento_Cms
 "View","عرض",module,Magento_Cms
 "px.","بكسل.",module,Magento_Cms
@@ -3603,7 +3603,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "General Information","المعلومات العامة",module,Magento_Cms
 "Enable Block","تمكين كتلة",module,Magento_Cms
 "Block Title","حجب العنوان",module,Magento_Cms
-"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?",module,Magento_Cms
+"Are you sure you want to delete selected items?","هل أنت متأكد أنك تريد حذف العناصر المحددة؟",module,Magento_Cms
 "Delete items","حذف عناصر",module,Magento_Cms
 "Page Information","بيانات الصفحة",module,Magento_Cms
 "Enable Page","تمكين الصفحة",module,Magento_Cms
@@ -3656,7 +3656,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Save & Duplicate","حفظ & انشاء نسخة",module,Magento_Cms
 "Save & Close","حفظ وإغلاق",module,Magento_Cms
 "Cancel","إلغاء",module,Magento_Cms
-"Delete Selected","Delete Selected",module,Magento_Cms
+"Delete Selected","حذف المحدد",module,Magento_Cms
 "Create Folder","إنشاء مجلد",module,Magento_Cms
 "Add Selected","إضافة المحدد",module,Magento_Cms
 "You duplicated the block.","You duplicated the block.",module,Magento_Cms
@@ -6487,7 +6487,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "CSS inlining error:","CSS inlining error:",module,Magento_Email
 "Error filtering template: %s","Error filtering template: %s",module,Magento_Email
 "We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content.",module,Magento_Email
-"Invalid sender data","Invalid sender data",module,Magento_Email
+"Invalid sender data","إرسال",module,Magento_Email
 "Title","العنوان",module,Magento_Email
 "Load default template","تحميل قالب افتراضي",module,Magento_Email
 "Template","قالب",module,Magento_Email
@@ -16235,73 +16235,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","تم رفض المعاملة",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","خلاصة",theme,frontend\Magento\blank
-"Account Dashboard","لوحة تحكم الحساب",theme,frontend\Magento\blank
-"Account Information","معلومات الحساب",theme,frontend\Magento\blank
-"Address Book","سجل العناوين",theme,frontend\Magento\blank
-"Menu","القائمة",theme,frontend\Magento\blank
-"Account","الحساب",theme,frontend\Magento\blank
-"Settings","الإعدادات",theme,frontend\Magento\blank
-"Now Shopping by","تسوق الآن من",theme,frontend\Magento\luma
-"Previous","السابق",theme,frontend\Magento\luma
-"Remove","ازالة",theme,frontend\Magento\luma
-"Remove This Item","حذف هذا العنصر",theme,frontend\Magento\luma
-"Shop By","تصفح عبر",theme,frontend\Magento\luma
-"Clear All","إلغاء الكل",theme,frontend\Magento\luma
-"Shopping Options","خيارات تنفيذ البيع",theme,frontend\Magento\luma
-"Welcome to %store_name","مرحبا بك في %store_name",theme,frontend\Magento\luma
-"%name,","%name،",theme,frontend\Magento\luma
-"Welcome to %store_name.","مرحبا بك في %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","لتسجيل الدخول إلى موقعنا استخدم بيانات الدخول التالية للشراء أو لإدارة <a href=""%customer_url""> عضويتك</a>:",theme,frontend\Magento\luma
-"Email:","البريد الالكترونى:",theme,frontend\Magento\luma
-"Password:","الرقم السري:",theme,frontend\Magento\luma
-"Password you set when creating account","كلمة المرور التي قمت بتعيينها عند إنشاء الحساب",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","نسيت كلمة مرور حسابك؟ <a href=""%reset_url"">اضغط هنا</a> لإعادة تعيينها.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","عند تسجيل الدخول إلى حسابك، سوف تكون قادراً على:",theme,frontend\Magento\luma
-"Quick Checkout","إتمام الشراء الفوري",theme,frontend\Magento\luma
-"Proceed through checkout faster","أكمل في الشراء الفوري",theme,frontend\Magento\luma
-"Order Status","حالة الطلب",theme,frontend\Magento\luma
-"Check the status of orders","التحقق من حالة الطلب",theme,frontend\Magento\luma
-"Manage Addresses","إدارة العناوين",theme,frontend\Magento\luma
-"Store alternative addresses","حفظ عناوين بديلة",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","للشحن إلى العديد من أفراد العائلة والأصدقاء",theme,frontend\Magento\luma
-"Order History","سجل الطلبات",theme,frontend\Magento\luma
-"View past orders","عرض الطلبات السابقة",theme,frontend\Magento\luma
-"Footer","ذيل الصفحة",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","ساعات العمل: < br/> <span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","مذكرة الائتمان لطلبك %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","شكرا لك على الشراء من %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","يمكنك التحقق من حالة طلبك عبر <a href=""%account_url""> تسجيل الدخول إلى حسابك</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","إذا كان لديك أسئلة حول الطلب، يمكنك مراسلتنا على <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","مذكره الإئتمان رقم #%creditmemo_id لأمر #%order_id",theme,frontend\Magento\luma
-"Billing Info","بيانات الدفع",theme,frontend\Magento\luma
-"Shipping Info","بيانات الشحن",theme,frontend\Magento\luma
-"Payment Method","طريقة الدفع",theme,frontend\Magento\luma
-"Shipping Method","طريقة الشحن",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","تحديث لمذكرة الائتمان الخاصة بك %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","طلبك #%increment_id تم تحديث حالته إلى <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","فاتورة لطلبك %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","فاتورتك #%invoice_id للطلب #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","تحديث للفاتورة %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","تأكيد طلبك في %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name،",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","سوف نرسلك لم رقم بوليصة الشحن فور شحن طلبكم.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","طلبك <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","بتاريخ <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","تحديث طلبك في %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","لقد تم شحن طلبك %store_name",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","تأكيد الشحن الخاص بك أدناه. أشكركم مرة أخرى على عملك.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","شحنتك #%shipment_id لطلب رقم #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","تحديث للشحنة الخاصة بك %store_name",theme,frontend\Magento\luma
-"Account Dashboard","لوحة تحكم الحساب",theme,frontend\Magento\luma
-"Address Book","سجل العناوين",theme,frontend\Magento\luma
-"Account Information","معلومات الحساب",theme,frontend\Magento\luma
-"About Us","من نحن",theme,frontend\Magento\luma
-"Customer Service","خدمة العملاء",theme,frontend\Magento\luma
-"My Account","حسابي",theme,frontend\Magento\luma
+"Summary","الملخص",theme,frontend/Magento/blank
+"Account Dashboard","لوحة تحكم الحساب",theme,frontend/Magento/blank
+"Account Information","معلومات الحساب",theme,frontend/Magento/blank
+"Address Book","سجل العناوين",theme,frontend/Magento/blank
+"Menu","القائمة",theme,frontend/Magento/blank
+"Account","الحساب",theme,frontend/Magento/blank
+"Settings","الإعدادات",theme,frontend/Magento/blank
+"Now Shopping by","تسوق الآن من",theme,frontend/Magento/luma
+"Previous","السابق",theme,frontend/Magento/luma
+"Remove","ازالة",theme,frontend/Magento/luma
+"Remove This Item","حذف هذا العنصر",theme,frontend/Magento/luma
+"Shop By","تصفح عبر",theme,frontend/Magento/luma
+"Clear All","إلغاء الكل",theme,frontend/Magento/luma
+"Shopping Options","خيارات تنفيذ البيع",theme,frontend/Magento/luma
+"Welcome to %store_name","مرحبا بك في %store_name",theme,frontend/Magento/luma
+"%name,","%name،",theme,frontend/Magento/luma
+"Welcome to %store_name.","مرحبا بك في %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","لتسجيل الدخول إلى موقعنا استخدم بيانات الدخول التالية للشراء أو لإدارة <a href=""%customer_url""> عضويتك</a>:",theme,frontend/Magento/luma
+"Email:","البريد الالكترونى:",theme,frontend/Magento/luma
+"Password:","الرقم السري:",theme,frontend/Magento/luma
+"Password you set when creating account","كلمة المرور التي قمت بتعيينها عند إنشاء الحساب",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","نسيت كلمة مرور حسابك؟ <a href=""%reset_url"">اضغط هنا</a> لإعادة تعيينها.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","عند تسجيل الدخول إلى حسابك، سوف تكون قادراً على:",theme,frontend/Magento/luma
+"Quick Checkout","إتمام الشراء الفوري",theme,frontend/Magento/luma
+"Proceed through checkout faster","أكمل في الشراء الفوري",theme,frontend/Magento/luma
+"Order Status","حالة الطلب",theme,frontend/Magento/luma
+"Check the status of orders","التحقق من حالة الطلب",theme,frontend/Magento/luma
+"Manage Addresses","إدارة العناوين",theme,frontend/Magento/luma
+"Store alternative addresses","حفظ عناوين بديلة",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","للشحن إلى العديد من أفراد العائلة والأصدقاء",theme,frontend/Magento/luma
+"Order History","سجل الطلبات",theme,frontend/Magento/luma
+"View past orders","عرض الطلبات السابقة",theme,frontend/Magento/luma
+"Footer","ذيل الصفحة",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>نبذة عنا</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>خدمة لعملاء</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","ساعات العمل: < br/> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","مذكرة الائتمان لطلبك %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","شكرا لك على الشراء من %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","يمكنك التحقق من حالة طلبك عبر <a href=""%account_url""> تسجيل الدخول إلى حسابك</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","إذا كان لديك أسئلة حول الطلب، يمكنك مراسلتنا على <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","مذكره الإئتمان رقم #%creditmemo_id لأمر #%order_id",theme,frontend/Magento/luma
+"Billing Info","بيانات الدفع",theme,frontend/Magento/luma
+"Shipping Info","بيانات الشحن",theme,frontend/Magento/luma
+"Payment Method","طريقة الدفع",theme,frontend/Magento/luma
+"Shipping Method","طريقة الشحن",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","تحديث لمذكرة الائتمان الخاصة بك %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","طلبك #%increment_id تم تحديث حالته إلى <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","فاتورة لطلبك %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","فاتورتك #%invoice_id للطلب #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","تحديث للفاتورة %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","تأكيد طلبك في %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name،",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","سوف نرسلك لم رقم بوليصة الشحن فور شحن طلبكم.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","طلبك <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","بتاريخ <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","تحديث طلبك في %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","لقد تم شحن طلبك %store_name",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","تأكيد الشحن الخاص بك أدناه. أشكركم مرة أخرى على عملك.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","شحنتك #%shipment_id لطلب رقم #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","تحديث للشحنة الخاصة بك %store_name",theme,frontend/Magento/luma
+"Account Dashboard","لوحة تحكم الحساب",theme,frontend/Magento/luma
+"Address Book","سجل العناوين",theme,frontend/Magento/luma
+"Account Information","معلومات الحساب",theme,frontend/Magento/luma
+"About Us","من نحن",theme,frontend/Magento/luma
+"Customer Service","خدمة العملاء",theme,frontend/Magento/luma
+"My Account","حسابي",theme,frontend/Magento/luma
 "Backup options","خيارات النسخ الاحتياطي",lib,web
 "Warning","تحذير",lib,web
 "Cancel","إلغاء",lib,web
@@ -16401,7 +16401,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a valid number.","الرجاء إدخال رقم صحيح.",lib,web
 "This is required field","هذا حقل مطلوب",lib,web
 "Admin is a required field in each row.","Admin is a required field in each row.",lib,web
-"Password cannot be the same as email address.","Password cannot be the same as email address.",lib,web
+"Password cannot be the same as email address.","كلمة السر لا يمكن أن تكون مطابقة لعنوان البريد الإلكتروني.",lib,web
 "Please fix this field.","الرجاء إصلاح هذا الحقل.",lib,web
 "Please enter a valid email address.","الرجاء ادخال عنوان بريد الكتروني صحيح.",lib,web
 "Please enter a valid URL.","المرجو إدخال عنوان URL بشكل صحيح.",lib,web
