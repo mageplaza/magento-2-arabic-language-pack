@@ -3,4 +3,4 @@ You added %1 item(s) to your shopping cart.,تمت إضافةالمنتج %1 ا�
 "The item was added to wish list %1, store view %2.","متجر %2, %1 المنتج تمت زيادته الى القائمة المفضلة.",module,Magento_Reminder
 You have no items in your shopping cart.,"لا يوجد لديك عناصر في سلة التسوق الخاصة بك.
 ",module,Magento_Checkout
-Change Email and Password,تغيير كلمة البريد الإلكتروني ولكلمة المرور,module,Magento_Customer
+Change Email and Password,تغيير كلمة البريد الإلكتروني وكلمة المرور,module,Magento_Customer
