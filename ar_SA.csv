@@ -4883,7 +4883,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","يجب عليك تأكيد بريدك الإلكتروني %customer_email قبل أن تتمكن من تسجيل الدخول (الرابط صالح فقط لمرة واحدة):",module,Magento_Customer
 "Confirm Your Account","تأكيد حسابك",module,Magento_Customer
 "Thank you for confirming your %store_name account.","شكرا لك على تأكيد حسابك في %store_name.",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","لتسجيل الدخول إلى موقعنا وتحديد كلمة المرور، <a href=""%customer_url"">اضغط هنا</a>:",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","لتسجيل الدخول إلى موقعنا وتحديد كلمة المرور، <a href=""%create_password_url"">اضغط هنا</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
