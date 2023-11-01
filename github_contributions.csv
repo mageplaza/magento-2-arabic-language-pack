@@ -4,3 +4,9 @@ You added %1 item(s) to your shopping cart.,تمت إضافةالمنتج %1 ا�
 You have no items in your shopping cart.,"لا يوجد لديك عناصر في سلة التسوق الخاصة بك.
 ",module,Magento_Checkout
 Change Email and Password,تغيير كلمة البريد الإلكتروني وكلمة المرور,module,Magento_Customer
+"Admin is a required field in each row.","المسؤول هو حقل مطلوب في كل صف.",lib,web
+"Please enter a quantity greater than 0.","الرجاء إدخال كمية أكبر من 0.",lib,web
+"The fewest you may purchase is %1.","أقل كمية يمكنك شراؤها هي %1.",lib,web
+"The maximum you may purchase is %1.","أقصى كمية يمكنك شراؤها هي %1.",lib,web
+"You can buy this product only in quantities of %1 at a time.","يمكنك شراء هذا المنتج فقط بكميات تبلغ %1 في كل مرة.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","يجب ألا يتطابق كلمة المرور مع عنوان البريد الإلكتروني. قم بإنشاء كلمة مرور جديدة وحاول مرة أخرى.",lib,web
